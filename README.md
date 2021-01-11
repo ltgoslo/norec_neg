@@ -1,9 +1,9 @@
 # NoReC_neg
 
-This dataset contains 418 documents annotated with negation cue and the related scope. 
+This dataset contains 414 documents annotated with negation cue and the related scope. Four documents have been removed compared to NoReC fine and NoReC eval, as these were found to contain formatting errors in the original documents that interferred with the annotations. 
 
 ## Overview
-This dataset is based on the same documents as the extended version of norec_fine. However, this datasets is annotated without looking at the previously labeled data. It therefore contains some negations that overlap with evaluative sentences from these, and some that do not. This data comprises roughly 11,000 sentences across more than 400 reviews and 10 different thematic categories (literature, products, restaurants, etc.), taken from  a subset of the [Norwegian Review Corpus](https://github.com/ltgoslo/norec) (NoReC; [Velldal et al. 2018](http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf)). The data comes with a predefined train/dev/test split (inherited from NoReC), and some key statistics are summarized in the table below, including frequency counts and average token lengths.     
+This dataset is based on the same documents as the extended version of norec_fine. However, this datasets is annotated without comparing it to the previously labeled data. It therefore contains some negations that overlap with evaluative sentences from these, and some that do not. This data comprises roughly 11,000 sentences across more than 400 reviews and 9 different thematic categories (literature, products, restaurants, etc.), taken from  a subset of the [Norwegian Review Corpus](https://github.com/ltgoslo/norec) (NoReC; [Velldal et al. 2018](http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf)). The data comes with a predefined train/dev/test split (inherited from NoReC), and some key statistics are summarized in the table below, including frequency counts and average token lengths.     
 
 
 | Type              | Train  | Dev    | Test     |  Total  |
@@ -65,25 +65,34 @@ Additionally, each negation in a sentence is a dictionary with the following key
 * 'Affixal': (True, False). Indicating whether the cue is affixal (prefix,suffix) or not.
 
 
-(obs! Eksempelet må oppdateres!)
 ```
 {
-    'sent_id': '202263-20-01',
-    'text': 'Touchbetjeningen brukes også til å besvare innkomne mobilanrop , og Sennheiser skryter av å ha doble mikrofoner i øreklokkene for å kutte ned på støyen .',
-    'opinions': [
-                    {
-                     'Source': [['Sennheiser'], ['68:78']],
-                     'Target': [['øreklokkene'], ['114:125']],
-                     'Polar_expression': [['skryter av å ha doble mikrofoner i øreklokkene for å kutte ned på støyen'], ['79:151']],
-                     'Polarity': 'Positive',
-                     'Intensity': 'Standard',
-                     'NOT': False,
-                     'Source_is_author': False,
-                     'Target_is_general': True,
-                     'Type': 'E'
-                     }
-                 ]
-}
+	"sent_id": "400620-03-06",
+	"text": "Den så jeg ikke komme .",
+	"negations": [
+		{
+			"Cue": [
+				[
+					"ikke"
+				],
+				[
+					"11:15"
+				]
+			],
+			"Scope": [
+				[
+					"Den så jeg",
+					"komme"
+				],
+				[
+					"0:10",
+					"16:21"
+				]
+			],
+			"Affixal": false
+		}
+	]
+},
 ```
 
 Note that a single sentence may contain several annotated negations. All negations must contain at least one cue, but it is possible for a negation to be without scope. These cases are mostly short comments with references to earlier sentences. Both cues and scopes can be multiword and discontinuous.
