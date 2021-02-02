@@ -129,11 +129,6 @@
         ]
     },
     {
-        "sent_id": "304685-09-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "400620-01-01",
         "text": "En doktor verdt å lytte til",
         "negations": []
@@ -609,11 +604,6 @@
         "negations": []
     },
     {
-        "sent_id": "400620-18-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "705105-01-01",
         "text": "Når livet slår inn i musikken",
         "negations": []
@@ -942,11 +932,6 @@
     {
         "sent_id": "705105-09-03",
         "text": "Jo , det går fremover her i distriktet for klassisk musikk .",
-        "negations": []
-    },
-    {
-        "sent_id": "705105-09-04",
-        "text": "",
         "negations": []
     },
     {
@@ -1297,11 +1282,6 @@
     {
         "sent_id": "000335-23-01",
         "text": "Frikjent sesong 2 er på 8 episoder og har premiere på TV2 og TV2 Sumo torsdag 27. oktober .",
-        "negations": []
-    },
-    {
-        "sent_id": "000335-23-02",
-        "text": "",
         "negations": []
     },
     {
@@ -2801,11 +2781,6 @@
         "negations": []
     },
     {
-        "sent_id": "000778-57-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "301571-01-01",
         "text": "Anmeldelse :",
         "negations": []
@@ -3276,11 +3251,6 @@
     {
         "sent_id": "301571-18-03",
         "text": "Snarere er det slik at Breiteig føler sin rolle som et privilegium .",
-        "negations": []
-    },
-    {
-        "sent_id": "301571-18-04",
-        "text": "",
         "negations": []
     },
     {
@@ -3988,11 +3958,6 @@
         "negations": []
     },
     {
-        "sent_id": "501263-25-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "202263-01-01",
         "text": "TEST :",
         "negations": []
@@ -4594,11 +4559,6 @@
         "negations": []
     },
     {
-        "sent_id": "202263-31-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "500236-01-01",
         "text": "Unyansert om slaveriet",
         "negations": [
@@ -4980,11 +4940,6 @@
         "negations": []
     },
     {
-        "sent_id": "500236-10-08",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "600614-01-01",
         "text": "Hollywood fra innsiden",
         "negations": []
@@ -5156,11 +5111,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "600614-11-05",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "202259-01-01",
@@ -5750,11 +5700,6 @@
         "negations": []
     },
     {
-        "sent_id": "202259-31-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "303164-01-01",
         "text": "Anmeldelse :",
         "negations": []
@@ -6126,11 +6071,6 @@
         "negations": []
     },
     {
-        "sent_id": "303164-20-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "400295-01-01",
         "text": "Karsten og Petra på safari :",
         "negations": []
@@ -6472,11 +6412,6 @@
         ]
     },
     {
-        "sent_id": "400295-12-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "105373-01-01",
         "text": "Konsertanmeldelse :",
         "negations": []
@@ -6706,11 +6641,6 @@
     {
         "sent_id": "105373-14-01",
         "text": "Men det er vel slik det må være på en berg- og dalbane av en konsert .",
-        "negations": []
-    },
-    {
-        "sent_id": "105373-14-02",
-        "text": "",
         "negations": []
     },
     {
@@ -7105,11 +7035,6 @@
         "negations": []
     },
     {
-        "sent_id": "102329-24-08",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "004567-01-01",
         "text": "Insidious 3",
         "negations": []
@@ -7314,11 +7239,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "004567-19-02",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "004745-01-01",
@@ -7630,11 +7550,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "004745-20-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "200102-01-01",
@@ -8150,11 +8065,6 @@
         "negations": []
     },
     {
-        "sent_id": "200102-31-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "704010-01-01",
         "text": "Ekstremt vitalt",
         "negations": []
@@ -8356,11 +8266,6 @@
         "negations": []
     },
     {
-        "sent_id": "704010-07-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "601619-01-01",
         "text": "Lyden av feststemte sommernetter",
         "negations": []
@@ -8462,11 +8367,6 @@
     {
         "sent_id": "601619-04-03",
         "text": "Dette er lyden av festene som strekker seg utover sommernettene .",
-        "negations": []
-    },
-    {
-        "sent_id": "601619-04-04",
-        "text": "",
         "negations": []
     },
     {
@@ -8854,11 +8754,6 @@
     {
         "sent_id": "400258-15-03",
         "text": "Den får deg til å le , og i tillegg er den en anelse skremmende før eventyret er snipp snapp snute .",
-        "negations": []
-    },
-    {
-        "sent_id": "400258-15-04",
-        "text": "",
         "negations": []
     },
     {
@@ -9361,11 +9256,6 @@
         "negations": []
     },
     {
-        "sent_id": "500716-09-08",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "004702-01-01",
         "text": "The Priest's Children",
         "negations": []
@@ -9633,11 +9523,6 @@
         "negations": []
     },
     {
-        "sent_id": "004702-19-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "501135-01-01",
         "text": "90-tallskameratene slår til igjen",
         "negations": []
@@ -9824,11 +9709,6 @@
     {
         "sent_id": "501135-07-05",
         "text": "Om Festplassen klarer å få seg et nedslagsfelt utenfor de gule bussene gjenstår likevel å se .",
-        "negations": []
-    },
-    {
-        "sent_id": "501135-07-06",
-        "text": "",
         "negations": []
     },
     {
@@ -10096,11 +9976,6 @@
     {
         "sent_id": "000735-14-02",
         "text": "Filmpolitiets lesere kåret vinneren etter uker med avstemninger og diskusjoner på nettsidene våre – sjekk resultatet her .",
-        "negations": []
-    },
-    {
-        "sent_id": "000735-14-03",
-        "text": "",
         "negations": []
     },
     {
@@ -10452,11 +10327,6 @@
     {
         "sent_id": "104987-18-01",
         "text": "MORTEN STÅLE NILSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "104987-18-02",
-        "text": "",
         "negations": []
     },
     {
@@ -10818,11 +10688,6 @@
         ]
     },
     {
-        "sent_id": "108702-12-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "108886-01-01",
         "text": "« Firework »",
         "negations": []
@@ -10867,11 +10732,6 @@
     {
         "sent_id": "108886-02-04",
         "text": "Og jada , vi får servert fyrverkeri også , før Perry går inn i prismen hun kom ut av til å begynne med .",
-        "negations": []
-    },
-    {
-        "sent_id": "108886-02-05",
-        "text": "",
         "negations": []
     },
     {
@@ -11188,11 +11048,6 @@
         ]
     },
     {
-        "sent_id": "704783-06-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "601625-01-01",
         "text": "Variert og spennende",
         "negations": []
@@ -11295,11 +11150,6 @@
     {
         "sent_id": "601625-04-01",
         "text": "Hot Chip er utforskende og nyskapende , men kunne godt dratt den enda lenger når de først var på vei ut .",
-        "negations": []
-    },
-    {
-        "sent_id": "601625-04-02",
-        "text": "",
         "negations": []
     },
     {
@@ -11614,11 +11464,6 @@
     {
         "sent_id": "000286-24-01",
         "text": "Beck – Steinar har premiere 6. februar på C More First og strømmetjenesten TV 2 Sumo .",
-        "negations": []
-    },
-    {
-        "sent_id": "000286-24-02",
-        "text": "",
         "negations": []
     },
     {
@@ -11964,11 +11809,6 @@
         "negations": []
     },
     {
-        "sent_id": "400215-15-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "304825-01-01",
         "text": "Anmeldelse :",
         "negations": []
@@ -12207,11 +12047,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "304825-12-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "000227-01-01",
@@ -12557,11 +12392,6 @@
         "negations": []
     },
     {
-        "sent_id": "000227-18-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "002907-01-01",
         "text": "Brolagt med gode intensjoner",
         "negations": []
@@ -12790,11 +12620,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "002907-08-04",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "300433-01-01",
@@ -13031,11 +12856,6 @@
         "negations": []
     },
     {
-        "sent_id": "300433-10-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "200942-01-01",
         "text": "Hoka One-One Speedgoat",
         "negations": []
@@ -13250,11 +13070,6 @@
     {
         "sent_id": "200942-11-02",
         "text": "En god sko som er komfortabel og gir godt grep , men som gir liten kontakt med terrenget .",
-        "negations": []
-    },
-    {
-        "sent_id": "200942-11-03",
-        "text": "",
         "negations": []
     },
     {
@@ -13747,11 +13562,6 @@
         "negations": []
     },
     {
-        "sent_id": "700798-19-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "300002-01-01",
         "text": "Maya Viks funkfyrverkeri",
         "negations": []
@@ -13838,11 +13648,6 @@
     {
         "sent_id": "300002-05-02",
         "text": "En definerende samling låter jeg virkelig gleder meg til å få oppleve live .",
-        "negations": []
-    },
-    {
-        "sent_id": "300002-05-03",
-        "text": "",
         "negations": []
     },
     {
@@ -13959,11 +13764,6 @@
     {
         "sent_id": "602282-04-01",
         "text": "Josefin Winther er en hardtarbeidende musiker som er på vei opp og frem , men det er fortsatt et lite stykke igjen til toppen .",
-        "negations": []
-    },
-    {
-        "sent_id": "602282-04-02",
-        "text": "",
         "negations": []
     },
     {
@@ -14180,11 +13980,6 @@
         "negations": []
     },
     {
-        "sent_id": "400109-12-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "104926-01-01",
         "text": "Filmanmeldelse « Hail , Caesar ! » :",
         "negations": []
@@ -14393,11 +14188,6 @@
     {
         "sent_id": "104926-10-01",
         "text": "ØYSTEIN DAVID JOHANSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "104926-10-02",
-        "text": "",
         "negations": []
     },
     {
@@ -14757,11 +14547,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "701679-15-06",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "500718-01-01",
@@ -15171,11 +14956,6 @@
     {
         "sent_id": "500718-10-07",
         "text": "Samspillet mellom de fire er også av godt merke .",
-        "negations": []
-    },
-    {
-        "sent_id": "500718-10-08",
-        "text": "",
         "negations": []
     }
 ]

@@ -293,11 +293,6 @@
         ]
     },
     {
-        "sent_id": "105177-12-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "003339-01-01",
         "text": "Cassandra ’ s dream",
         "negations": []
@@ -571,11 +566,6 @@
         "negations": []
     },
     {
-        "sent_id": "003339-15-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "702956-01-01",
         "text": "Dirty Harrys datter",
         "negations": []
@@ -726,11 +716,6 @@
     {
         "sent_id": "702956-06-02",
         "text": "« Fader Thadeus har avlagt taushetsløfte , så vi bruker e-mail » .",
-        "negations": []
-    },
-    {
-        "sent_id": "702956-06-03",
-        "text": "",
         "negations": []
     },
     {
@@ -1086,11 +1071,6 @@
     {
         "sent_id": "003480-16-01",
         "text": "Dette synes jeg veier opp for filmens åpenbare svakheter , og derfor kan ” The Spirit ” anbefales , men glemmes når Frank Miller og Robert Rodriguez blir ferdige med ” Sin City 2 ”",
-        "negations": []
-    },
-    {
-        "sent_id": "003480-16-02",
-        "text": "",
         "negations": []
     },
     {
@@ -1588,11 +1568,6 @@
         ]
     },
     {
-        "sent_id": "200662-25-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "108182-01-01",
         "text": "Fredric Drums siste eventyr",
         "negations": []
@@ -1782,11 +1757,6 @@
     {
         "sent_id": "108182-06-01",
         "text": "JON H. RYDNE",
-        "negations": []
-    },
-    {
-        "sent_id": "108182-06-02",
-        "text": "",
         "negations": []
     },
     {
@@ -2133,11 +2103,6 @@
         "negations": []
     },
     {
-        "sent_id": "702152-13-07",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107972-01-01",
         "text": "Alice Coltrane :",
         "negations": []
@@ -2272,11 +2237,6 @@
         "negations": []
     },
     {
-        "sent_id": "107972-05-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "111053-01-01",
         "text": "Me And My Army , « Thank God For Sending Demons »",
         "negations": []
@@ -2401,11 +2361,6 @@
         "negations": []
     },
     {
-        "sent_id": "111053-05-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103635-01-01",
         "text": "Maria Mena :",
         "negations": []
@@ -2512,11 +2467,6 @@
     {
         "sent_id": "103635-10-01",
         "text": "Arvid Solvang har produsert « Mellow » .",
-        "negations": []
-    },
-    {
-        "sent_id": "103635-10-02",
-        "text": "",
         "negations": []
     },
     {
@@ -3051,11 +3001,6 @@
         ]
     },
     {
-        "sent_id": "302087-18-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "302850-01-01",
         "text": "Ganske bra brasserie",
         "negations": []
@@ -3445,11 +3390,6 @@
         "negations": []
     },
     {
-        "sent_id": "302850-16-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103942-01-01",
         "text": "Ludacris :",
         "negations": []
@@ -3536,11 +3476,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "103942-04-05",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "101421-01-01",
@@ -3672,11 +3607,6 @@
     {
         "sent_id": "101421-10-01",
         "text": "BORGHILD MAALAND",
-        "negations": []
-    },
-    {
-        "sent_id": "101421-10-02",
-        "text": "",
         "negations": []
     },
     {
@@ -3960,11 +3890,6 @@
         "negations": []
     },
     {
-        "sent_id": "303346-14-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "105977-01-01",
         "text": "Sukkerspinn !",
         "negations": []
@@ -4160,11 +4085,6 @@
         "negations": []
     },
     {
-        "sent_id": "105977-09-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110899-01-01",
         "text": "Lite troverdig",
         "negations": []
@@ -4284,11 +4204,6 @@
     {
         "sent_id": "110899-06-01",
         "text": "KNUT FALDBAKKEN",
-        "negations": []
-    },
-    {
-        "sent_id": "110899-06-02",
-        "text": "",
         "negations": []
     },
     {
@@ -4634,11 +4549,6 @@
         "negations": []
     },
     {
-        "sent_id": "303356-10-07",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "002008-01-01",
         "text": "Sommer i garasjen",
         "negations": []
@@ -4852,11 +4762,6 @@
         "negations": []
     },
     {
-        "sent_id": "002008-09-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "302663-01-01",
         "text": "Bob Dylan hyller country'ens største helt",
         "negations": []
@@ -4982,11 +4887,6 @@
     {
         "sent_id": "302663-06-01",
         "text": "Ei plate som bekrefter Hank Williams som en enestående stilskaper , med et så sterkt personlig særpreg at det skinner stjerneklart igjennom også når andre artister hyller ham på denne måten .",
-        "negations": []
-    },
-    {
-        "sent_id": "302663-06-02",
-        "text": "",
         "negations": []
     },
     {
@@ -6038,11 +5938,6 @@
         ]
     },
     {
-        "sent_id": "101554-51-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106487-01-01",
         "text": "Vond og tung",
         "negations": []
@@ -6229,11 +6124,6 @@
         "negations": []
     },
     {
-        "sent_id": "106487-06-06",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "102688-01-01",
         "text": "Låt :",
         "negations": []
@@ -6251,11 +6141,6 @@
     {
         "sent_id": "102688-02-01",
         "text": "Iranskfødte Tooji forsøker godt med et dansbart , orientalsk-inspirert og refrenglett bidrag .",
-        "negations": []
-    },
-    {
-        "sent_id": "102688-02-02",
-        "text": "",
         "negations": []
     },
     {
@@ -6391,11 +6276,6 @@
     {
         "sent_id": "600117-10-02",
         "text": "En må jo godta at slutten er som den er , men for undertegnede blir den for lettvint .",
-        "negations": []
-    },
-    {
-        "sent_id": "600117-10-03",
-        "text": "",
         "negations": []
     },
     {
@@ -6955,11 +6835,6 @@
         "negations": []
     },
     {
-        "sent_id": "701363-13-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "400835-01-01",
         "text": "Restaurantanmeldelsen :",
         "negations": []
@@ -7273,11 +7148,6 @@
         "negations": []
     },
     {
-        "sent_id": "400835-19-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "601563-01-01",
         "text": "« En gyllen halvannen time »",
         "negations": []
@@ -7482,11 +7352,6 @@
         "negations": []
     },
     {
-        "sent_id": "601563-07-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "102152-01-01",
         "text": "Film :",
         "negations": []
@@ -7620,11 +7485,6 @@
     {
         "sent_id": "102152-08-01",
         "text": "Men der Hitchcock som oftest gir publikum en nervebitende opplevelse , er Chan-wook Parks film mer visuell stilfull enn nifs .",
-        "negations": []
-    },
-    {
-        "sent_id": "102152-08-02",
-        "text": "",
         "negations": []
     },
     {
@@ -9008,11 +8868,6 @@
         "negations": []
     },
     {
-        "sent_id": "202601-52-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "702788-01-01",
         "text": "En forvirrende frisk øyenfryd",
         "negations": []
@@ -9302,11 +9157,6 @@
         "negations": []
     },
     {
-        "sent_id": "702788-15-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "600103-01-01",
         "text": "De stjålne skritt i halvmørket",
         "negations": []
@@ -9488,11 +9338,6 @@
     {
         "sent_id": "600103-08-01",
         "text": "For en del vil kanskje denne spionasjethrilleren fremstå som for stille , for lite actionpreget , men for John le Carré-dyrkere er den en indrefilet .",
-        "negations": []
-    },
-    {
-        "sent_id": "600103-08-02",
-        "text": "",
         "negations": []
     },
     {
@@ -9833,11 +9678,6 @@
         "negations": []
     },
     {
-        "sent_id": "109480-20-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110844-01-01",
         "text": "Stummende mørke",
         "negations": []
@@ -9978,11 +9818,6 @@
     {
         "sent_id": "110844-05-01",
         "text": "ØYSTEIN DAVID JOHANSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "110844-05-02",
-        "text": "",
         "negations": []
     },
     {
@@ -10179,11 +10014,6 @@
         ]
     },
     {
-        "sent_id": "304841-09-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "702187-01-01",
         "text": "Stor og bred Seagal",
         "negations": []
@@ -10282,11 +10112,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "702187-05-02",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "110737-01-01",
@@ -10553,11 +10378,6 @@
         "negations": []
     },
     {
-        "sent_id": "110737-09-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "400523-01-01",
         "text": "Donald Duck & Co , julehefte 2016",
         "negations": []
@@ -10592,11 +10412,6 @@
     {
         "sent_id": "400523-02-02",
         "text": "Dessverre er det varierende kvalitet på dem , det er strengt tatt bare « Gratis gran » med Dolly som er noe å henge i juletreet .",
-        "negations": []
-    },
-    {
-        "sent_id": "400523-02-03",
-        "text": "",
         "negations": []
     },
     {
@@ -10913,11 +10728,6 @@
         "negations": []
     },
     {
-        "sent_id": "004025-28-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "501319-01-01",
         "text": "Glad galopp",
         "negations": []
@@ -11052,11 +10862,6 @@
     {
         "sent_id": "501319-08-02",
         "text": "Si din mening .",
-        "negations": []
-    },
-    {
-        "sent_id": "501319-08-03",
-        "text": "",
         "negations": []
     },
     {
@@ -11429,11 +11234,6 @@
         "negations": []
     },
     {
-        "sent_id": "003717-26-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "003889-01-01",
         "text": "The Girl With The Dragon Tattoo",
         "negations": []
@@ -11771,11 +11571,6 @@
         "negations": []
     },
     {
-        "sent_id": "003889-30-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "304814-01-01",
         "text": "Fansen kan puste lettet ut",
         "negations": []
@@ -11983,11 +11778,6 @@
     {
         "sent_id": "304814-11-02",
         "text": "Da får det bli opp til de øvrige albumsporene å vise om den reduserte troppen har nyansespennet fra forrige gang inntakt .",
-        "negations": []
-    },
-    {
-        "sent_id": "304814-11-03",
-        "text": "",
         "negations": []
     },
     {
@@ -12268,11 +12058,6 @@
         "negations": []
     },
     {
-        "sent_id": "002051-07-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "201174-01-01",
         "text": "Kingston HyperX 3K 240 GB SSD",
         "negations": []
@@ -12504,11 +12289,6 @@
         "negations": []
     },
     {
-        "sent_id": "201174-18-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "600997-01-01",
         "text": "Ei underlig salmebok til pynt",
         "negations": []
@@ -12688,11 +12468,6 @@
     {
         "sent_id": "600997-08-07",
         "text": "Denne boka tjener verken forlag eller forfatter til ære .",
-        "negations": []
-    },
-    {
-        "sent_id": "600997-08-08",
-        "text": "",
         "negations": []
     },
     {
@@ -12963,11 +12738,6 @@
         "negations": []
     },
     {
-        "sent_id": "101419-15-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110965-01-01",
         "text": "Anmeldelse av « The Earth is Trembling » :",
         "negations": []
@@ -13135,11 +12905,6 @@
     {
         "sent_id": "110965-12-01",
         "text": "THOMAS TALSETH",
-        "negations": []
-    },
-    {
-        "sent_id": "110965-12-02",
-        "text": "",
         "negations": []
     },
     {
@@ -13802,11 +13567,6 @@
         "negations": []
     },
     {
-        "sent_id": "107878-19-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "500322-01-01",
         "text": "En maktdemonstrasjon",
         "negations": []
@@ -14103,11 +13863,6 @@
         "negations": []
     },
     {
-        "sent_id": "500322-21-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "600982-01-01",
         "text": "Snodig fortelling",
         "negations": []
@@ -14240,11 +13995,6 @@
     {
         "sent_id": "600982-09-03",
         "text": "Hvis ettertiden bruker von Schirach og Kehlmann som temperaturmålere på tysk kultur rundt århundreskiftet , vil de stemple den som fremmedgjort .",
-        "negations": []
-    },
-    {
-        "sent_id": "600982-09-04",
-        "text": "",
         "negations": []
     },
     {
@@ -15344,11 +15094,6 @@
         "negations": []
     },
     {
-        "sent_id": "201078-35-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106679-01-01",
         "text": "Nelly Furtado « Loose »",
         "negations": []
@@ -15472,11 +15217,6 @@
         ]
     },
     {
-        "sent_id": "106679-06-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110133-01-01",
         "text": "Godkjent retur",
         "negations": []
@@ -15558,11 +15298,6 @@
     {
         "sent_id": "110133-05-01",
         "text": "TOR MARTIN BØE",
-        "negations": []
-    },
-    {
-        "sent_id": "110133-05-02",
-        "text": "",
         "negations": []
     },
     {
@@ -15924,11 +15659,6 @@
         ]
     },
     {
-        "sent_id": "003803-22-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "003662-01-01",
         "text": "I en bedre verden",
         "negations": []
@@ -16158,11 +15888,6 @@
     {
         "sent_id": "003662-21-02",
         "text": "Men de beste filmene lager Susanne Bier fremdeles hjemme i Danmark",
-        "negations": []
-    },
-    {
-        "sent_id": "003662-21-03",
-        "text": "",
         "negations": []
     },
     {
@@ -16616,11 +16341,6 @@
     {
         "sent_id": "200937-14-03",
         "text": "Du vil nok bli gledelig overrasket .",
-        "negations": []
-    },
-    {
-        "sent_id": "200937-14-04",
-        "text": "",
         "negations": []
     },
     {
@@ -17276,11 +16996,6 @@
         "negations": []
     },
     {
-        "sent_id": "200099-35-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "300746-01-01",
         "text": "Fotballkampen for tilværelsen",
         "negations": []
@@ -17526,11 +17241,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "300746-11-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "501037-01-01",
@@ -17920,11 +17630,6 @@
     {
         "sent_id": "501037-11-01",
         "text": "EINAR ENGELSTAD",
-        "negations": []
-    },
-    {
-        "sent_id": "501037-11-02",
-        "text": "",
         "negations": []
     },
     {
@@ -18347,11 +18052,6 @@
         ]
     },
     {
-        "sent_id": "500127-10-07",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "200607-01-01",
         "text": "TEST :",
         "negations": []
@@ -18566,11 +18266,6 @@
     {
         "sent_id": "200607-24-01",
         "text": "Kingston SSDNow V+100 SVP100S2 128GB",
-        "negations": []
-    },
-    {
-        "sent_id": "200607-24-02",
-        "text": "",
         "negations": []
     },
     {
@@ -19000,11 +18695,6 @@
         "negations": []
     },
     {
-        "sent_id": "109779-30-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "703152-01-01",
         "text": "Gammelt nag og nye koster",
         "negations": []
@@ -19132,11 +18822,6 @@
         "negations": []
     },
     {
-        "sent_id": "703152-08-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "301835-01-01",
         "text": "Høstdepresjon og svineinfluensa ?",
         "negations": []
@@ -19206,11 +18891,6 @@
     {
         "sent_id": "301835-07-01",
         "text": "Ved første gjennomlytting høres plata kanskje en smule banal ut , som om det hele er litt for enkelt , men etter hvert åpner det nye rom og krinkelkroker , litt som å spille dataspill .",
-        "negations": []
-    },
-    {
-        "sent_id": "301835-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -19449,11 +19129,6 @@
         "negations": []
     },
     {
-        "sent_id": "200014-17-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "700428-01-01",
         "text": "Tyskere som forsøker å fille-sjarmere",
         "negations": []
@@ -19631,11 +19306,6 @@
     {
         "sent_id": "700428-06-02",
         "text": "Hold ut .",
-        "negations": []
-    },
-    {
-        "sent_id": "700428-06-03",
-        "text": "",
         "negations": []
     },
     {
@@ -20569,11 +20239,6 @@
         "negations": []
     },
     {
-        "sent_id": "200323-44-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107557-01-01",
         "text": "Klam nytelse",
         "negations": []
@@ -20748,11 +20413,6 @@
     {
         "sent_id": "107557-16-02",
         "text": "Du må ha originalspillet , « Doom 3 » , for å kunne spille denne utvidelsespakken .",
-        "negations": []
-    },
-    {
-        "sent_id": "107557-16-03",
-        "text": "",
         "negations": []
     },
     {
@@ -21387,11 +21047,6 @@
         ]
     },
     {
-        "sent_id": "202276-25-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "100392-01-01",
         "text": "Lindgren-magi",
         "negations": []
@@ -21513,11 +21168,6 @@
     {
         "sent_id": "100392-07-01",
         "text": "KRISTINE STORLI HENNINGSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "100392-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -21772,11 +21422,6 @@
         ]
     },
     {
-        "sent_id": "700471-06-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106831-01-01",
         "text": "Prince : « 3121 »",
         "negations": []
@@ -21909,11 +21554,6 @@
     {
         "sent_id": "106831-08-02",
         "text": "Enn så lenge , i hvert fall .",
-        "negations": []
-    },
-    {
-        "sent_id": "106831-08-03",
-        "text": "",
         "negations": []
     },
     {
@@ -22115,11 +21755,6 @@
     {
         "sent_id": "107563-09-01",
         "text": "Og utflukten på landet havner helt på jordet .",
-        "negations": []
-    },
-    {
-        "sent_id": "107563-09-02",
-        "text": "",
         "negations": []
     },
     {
@@ -22349,11 +21984,6 @@
     {
         "sent_id": "601171-09-03",
         "text": "Sammen med Vidar Sundstøls « Ravnene » er « Gjenferd » forsommerens , fellesferiens og sensommerens krimlesning !",
-        "negations": []
-    },
-    {
-        "sent_id": "601171-09-04",
-        "text": "",
         "negations": []
     },
     {
@@ -22658,11 +22288,6 @@
         ]
     },
     {
-        "sent_id": "700556-08-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "703109-01-01",
         "text": "Sjelden perle fra Laos",
         "negations": []
@@ -22847,11 +22472,6 @@
         "negations": []
     },
     {
-        "sent_id": "703109-07-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "101192-01-01",
         "text": "Anniken Høve :",
         "negations": []
@@ -22978,11 +22598,6 @@
         ]
     },
     {
-        "sent_id": "101192-03-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "108189-01-01",
         "text": "Beyoncé feat .",
         "negations": []
@@ -23087,11 +22702,6 @@
     {
         "sent_id": "108189-06-02",
         "text": "« DeJa Vu » viser at idétørken deres stadig lar vente på seg .",
-        "negations": []
-    },
-    {
-        "sent_id": "108189-06-03",
-        "text": "",
         "negations": []
     },
     {
@@ -23444,11 +23054,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "305169-10-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "101562-01-01",
@@ -23855,11 +23460,6 @@
         "negations": []
     },
     {
-        "sent_id": "101562-11-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103512-01-01",
         "text": "Björn Rosenström :",
         "negations": []
@@ -23902,11 +23502,6 @@
     {
         "sent_id": "103512-07-01",
         "text": "Rosenström har laget en jevnt god plate som lever opp til platetittelen .",
-        "negations": []
-    },
-    {
-        "sent_id": "103512-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -24115,11 +23710,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "105542-13-02",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "200247-01-01",
@@ -24794,11 +24384,6 @@
         "negations": []
     },
     {
-        "sent_id": "200247-24-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001627-01-01",
         "text": "Å lytte mellom lydene",
         "negations": []
@@ -24985,11 +24570,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "001627-07-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "303167-01-01",
@@ -25222,11 +24802,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "303167-08-04",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "703367-01-01",
@@ -25698,11 +25273,6 @@
         "negations": []
     },
     {
-        "sent_id": "703367-10-06",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "102138-01-01",
         "text": "Bokanmeldelse :",
         "negations": []
@@ -25978,11 +25548,6 @@
         "negations": []
     },
     {
-        "sent_id": "102138-13-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001349-01-01",
         "text": "Rosa roboter , beige låter",
         "negations": []
@@ -26197,11 +25762,6 @@
         "negations": []
     },
     {
-        "sent_id": "001349-06-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "111643-01-01",
         "text": "Townes Van Zandt - « Be Here To Love Me »",
         "negations": []
@@ -26388,11 +25948,6 @@
         "negations": []
     },
     {
-        "sent_id": "111643-06-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109458-01-01",
         "text": "Plateanmeldelse :",
         "negations": []
@@ -26525,11 +26080,6 @@
         "negations": []
     },
     {
-        "sent_id": "109458-08-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "703730-01-01",
         "text": "Ogna-ord",
         "negations": []
@@ -26633,11 +26183,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "703730-04-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "600160-01-01",
@@ -26966,11 +26511,6 @@
         "negations": []
     },
     {
-        "sent_id": "600160-15-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "704138-01-01",
         "text": "Dirty Detroit",
         "negations": []
@@ -27066,11 +26606,6 @@
     {
         "sent_id": "704138-03-02",
         "text": "\" I'm not the one \" , \" Time will do the taking \" .",
-        "negations": []
-    },
-    {
-        "sent_id": "704138-03-03",
-        "text": "",
         "negations": []
     },
     {
@@ -27456,11 +26991,6 @@
         "negations": []
     },
     {
-        "sent_id": "703512-15-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109173-01-01",
         "text": "Velment om avhengighet",
         "negations": []
@@ -27644,11 +27174,6 @@
     {
         "sent_id": "109173-11-02",
         "text": "Mange ærlige sjeler vil møte mer enn overfladiske utfordringer i denne filmen !",
-        "negations": []
-    },
-    {
-        "sent_id": "109173-11-03",
-        "text": "",
         "negations": []
     },
     {
@@ -27927,11 +27452,6 @@
         "negations": []
     },
     {
-        "sent_id": "003939-20-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "704915-01-01",
         "text": "Engel + råtass = magisk !",
         "negations": []
@@ -28194,11 +27714,6 @@
         "negations": []
     },
     {
-        "sent_id": "704915-08-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "500437-01-01",
         "text": "Søster Marguerites kall",
         "negations": []
@@ -28427,11 +27942,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "500437-11-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "102679-01-01",
@@ -28779,11 +28289,6 @@
         "negations": []
     },
     {
-        "sent_id": "102679-16-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109519-01-01",
         "text": "Slitne « sjokk »",
         "negations": []
@@ -28854,11 +28359,6 @@
         "negations": []
     },
     {
-        "sent_id": "109519-06-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109725-01-01",
         "text": "Aerosmith :",
         "negations": []
@@ -28921,11 +28421,6 @@
     {
         "sent_id": "109725-06-01",
         "text": "MORTEN STÅLE NILSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "109725-06-02",
-        "text": "",
         "negations": []
     },
     {
@@ -29053,11 +28548,6 @@
     {
         "sent_id": "109901-04-09",
         "text": "« Troubled Days Are Over » MORTEN STÅLE NILSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "109901-04-10",
-        "text": "",
         "negations": []
     },
     {
@@ -29232,11 +28722,6 @@
     {
         "sent_id": "101882-04-07",
         "text": "ØYSTEIN DAVID JOHANSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "101882-04-08",
-        "text": "",
         "negations": []
     },
     {
@@ -29530,11 +29015,6 @@
         ]
     },
     {
-        "sent_id": "601343-07-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "102097-01-01",
         "text": "Konsertanmeldelse Manic Street Preachers :",
         "negations": []
@@ -29793,11 +29273,6 @@
         ]
     },
     {
-        "sent_id": "102097-12-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "703816-01-01",
         "text": "Pause fra ørkenvandringen",
         "negations": []
@@ -29939,11 +29414,6 @@
     {
         "sent_id": "703816-03-02",
         "text": "\" Spiltter \" , \" Para \" , \" Hush \" , \" The vanshing mind \" .",
-        "negations": []
-    },
-    {
-        "sent_id": "703816-03-03",
-        "text": "",
         "negations": []
     },
     {
@@ -30117,11 +29587,6 @@
         "negations": []
     },
     {
-        "sent_id": "001922-11-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "105795-01-01",
         "text": "New Pornographers :",
         "negations": []
@@ -30238,11 +29703,6 @@
     {
         "sent_id": "105795-07-01",
         "text": "TOR MARTIN BØE",
-        "negations": []
-    },
-    {
-        "sent_id": "105795-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -30456,11 +29916,6 @@
         "negations": []
     },
     {
-        "sent_id": "105573-08-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "105723-01-01",
         "text": "Brad Paisley - « Norwegian Favorites »",
         "negations": []
@@ -30553,11 +30008,6 @@
     {
         "sent_id": "105723-07-01",
         "text": "MORTEN STÅLE NILSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "105723-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -30863,11 +30313,6 @@
     {
         "sent_id": "304002-15-01",
         "text": "Gaute Tønders lydeffekter bygger opp under underliggjøringen .",
-        "negations": []
-    },
-    {
-        "sent_id": "304002-15-02",
-        "text": "",
         "negations": []
     },
     {
@@ -31345,11 +30790,6 @@
         ]
     },
     {
-        "sent_id": "304705-11-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "701111-01-01",
         "text": "Gammeldags mamma",
         "negations": []
@@ -31533,11 +30973,6 @@
         ]
     },
     {
-        "sent_id": "701111-04-15",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107610-01-01",
         "text": "Maria Kannegaard trio :",
         "negations": []
@@ -31585,11 +31020,6 @@
     {
         "sent_id": "107610-07-01",
         "text": "Dette er en vital og fengslende musikkopplevelse av de sjeldne .",
-        "negations": []
-    },
-    {
-        "sent_id": "107610-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -31829,11 +31259,6 @@
     {
         "sent_id": "303311-08-03",
         "text": "Det blir rett og slett for anmassende og fattig på temperaturskifter i lengden .",
-        "negations": []
-    },
-    {
-        "sent_id": "303311-08-04",
-        "text": "",
         "negations": []
     },
     {
@@ -32169,11 +31594,6 @@
         "negations": []
     },
     {
-        "sent_id": "101381-11-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001564-01-01",
         "text": "Sterkt fra start",
         "negations": []
@@ -32309,11 +31729,6 @@
     {
         "sent_id": "001564-07-01",
         "text": "No Age - \" Glitter \"",
-        "negations": []
-    },
-    {
-        "sent_id": "001564-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -32596,11 +32011,6 @@
         "negations": []
     },
     {
-        "sent_id": "101014-09-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "300336-01-01",
         "text": "Noe amputert",
         "negations": []
@@ -32826,11 +32236,6 @@
         "negations": []
     },
     {
-        "sent_id": "300336-09-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "101807-01-01",
         "text": "MALTA ( Videre til finalen ) :",
         "negations": []
@@ -32870,11 +32275,6 @@
     {
         "sent_id": "101807-02-02",
         "text": "Organisk , oppriktig og oppløftende .",
-        "negations": []
-    },
-    {
-        "sent_id": "101807-02-03",
-        "text": "",
         "negations": []
     },
     {
@@ -33067,11 +32467,6 @@
         "negations": []
     },
     {
-        "sent_id": "003576-15-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109346-01-01",
         "text": "Plateanmeldelse :",
         "negations": []
@@ -33166,11 +32561,6 @@
     {
         "sent_id": "109346-08-02",
         "text": "« Ambulancer »",
-        "negations": []
-    },
-    {
-        "sent_id": "109346-08-03",
-        "text": "",
         "negations": []
     },
     {
@@ -33551,11 +32941,6 @@
         "negations": []
     },
     {
-        "sent_id": "305017-20-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "702913-01-01",
         "text": "Kjærlighetsforviklinger i rånebygda",
         "negations": []
@@ -33871,11 +33256,6 @@
     {
         "sent_id": "702913-16-02",
         "text": "Men moro er det lell .",
-        "negations": []
-    },
-    {
-        "sent_id": "702913-16-03",
-        "text": "",
         "negations": []
     },
     {
@@ -34205,11 +33585,6 @@
     {
         "sent_id": "302647-09-03",
         "text": "Og den er sykt ræva .",
-        "negations": []
-    },
-    {
-        "sent_id": "302647-09-04",
-        "text": "",
         "negations": []
     },
     {
@@ -35188,11 +34563,6 @@
         ]
     },
     {
-        "sent_id": "202043-31-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "200386-01-01",
         "text": "Sony Alpha A55",
         "negations": []
@@ -35563,11 +34933,6 @@
         "negations": []
     },
     {
-        "sent_id": "200386-29-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "004068-01-01",
         "text": "De fem legendene",
         "negations": []
@@ -35844,11 +35209,6 @@
         ]
     },
     {
-        "sent_id": "004068-19-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "303566-01-01",
         "text": "Savnet :",
         "negations": []
@@ -36077,11 +35437,6 @@
     {
         "sent_id": "303566-15-02",
         "text": "Men det hadde vært befriende å en gang få se et boligprogram som så og hørtes litt mer ut som SVTs « Kobra » og litt mindre som tv-versjonen av Bonytt .",
-        "negations": []
-    },
-    {
-        "sent_id": "303566-15-03",
-        "text": "",
         "negations": []
     },
     {
@@ -36589,11 +35944,6 @@
         "negations": []
     },
     {
-        "sent_id": "300086-19-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "004340-01-01",
         "text": "Mr .",
         "negations": []
@@ -36835,11 +36185,6 @@
         "negations": []
     },
     {
-        "sent_id": "004340-17-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107375-01-01",
         "text": "Vemodig muntert",
         "negations": []
@@ -36915,11 +36260,6 @@
         "negations": []
     },
     {
-        "sent_id": "107375-06-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "304096-01-01",
         "text": "Humørfylt , lekent og overskuddspreget",
         "negations": []
@@ -36977,11 +36317,6 @@
     {
         "sent_id": "304096-10-01",
         "text": "Det låter humørfylt og overskuddspreget , og særlig Clarks fortryllende , trillende stemme får skinne på spor som åpningen « Who » .",
-        "negations": []
-    },
-    {
-        "sent_id": "304096-10-02",
-        "text": "",
         "negations": []
     },
     {
@@ -37106,11 +36441,6 @@
     {
         "sent_id": "600374-07-02",
         "text": "En del av oss lar oss hengivent underholde av dette , andre vil garantert føle at å se denne filmen er en passende straff for grove trafikksynder .",
-        "negations": []
-    },
-    {
-        "sent_id": "600374-07-03",
-        "text": "",
         "negations": []
     },
     {
@@ -37531,11 +36861,6 @@
     {
         "sent_id": "106602-13-01",
         "text": "« United 93 » slik sett også en intelligent og tvers igjennom forferdelig belysning av viktige sider ved selve terrorens anatomi .",
-        "negations": []
-    },
-    {
-        "sent_id": "106602-13-02",
-        "text": "",
         "negations": []
     },
     {
@@ -37974,11 +37299,6 @@
         ]
     },
     {
-        "sent_id": "109100-17-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "302573-01-01",
         "text": "Dette får du høre på Springsteens nye album",
         "negations": []
@@ -38218,11 +37538,6 @@
     {
         "sent_id": "302573-18-01",
         "text": "« High Hopes » var tilgjengelig i MP3-format på Amazon en kort periode i helga , men er i ordinært salg fra 13. januar .",
-        "negations": []
-    },
-    {
-        "sent_id": "302573-18-02",
-        "text": "",
         "negations": []
     },
     {
@@ -38599,11 +37914,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "301815-12-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "704907-01-01",
@@ -39017,11 +38327,6 @@
         "negations": []
     },
     {
-        "sent_id": "704907-12-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "101277-01-01",
         "text": "Fin tone i stemmen",
         "negations": []
@@ -39111,11 +38416,6 @@
     {
         "sent_id": "101277-05-05",
         "text": "Men han har en fin tone i stemmen , og potensial til å bli varmere i trøya .",
-        "negations": []
-    },
-    {
-        "sent_id": "101277-05-06",
-        "text": "",
         "negations": []
     },
     {
@@ -39370,11 +38670,6 @@
         "negations": []
     },
     {
-        "sent_id": "301338-07-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103447-01-01",
         "text": "Faithless :",
         "negations": []
@@ -39465,11 +38760,6 @@
     {
         "sent_id": "103447-04-05",
         "text": "Dunkelheten i uttrykket til tross - dette er en svanesang .",
-        "negations": []
-    },
-    {
-        "sent_id": "103447-04-06",
-        "text": "",
         "negations": []
     },
     {
@@ -39699,11 +38989,6 @@
     {
         "sent_id": "102727-10-01",
         "text": "Det er godt gjort !",
-        "negations": []
-    },
-    {
-        "sent_id": "102727-10-02",
-        "text": "",
         "negations": []
     },
     {
@@ -39967,11 +39252,6 @@
         "negations": []
     },
     {
-        "sent_id": "002800-09-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "302181-01-01",
         "text": "« Orlando » er ofte litterær , men aldri bokstavelig .",
         "negations": [
@@ -40228,11 +39508,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "302181-12-04",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "705034-01-01",
@@ -40501,11 +39776,6 @@
         "negations": []
     },
     {
-        "sent_id": "705034-09-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001521-01-01",
         "text": "Vil , vil , men får det ikke til",
         "negations": [
@@ -40756,11 +40026,6 @@
     {
         "sent_id": "001521-09-01",
         "text": "Bonustips 2 : Sjekk trykkene Bannon selger på www.jacobbannon.com , han er en rå illustratør",
-        "negations": []
-    },
-    {
-        "sent_id": "001521-09-02",
-        "text": "",
         "negations": []
     },
     {
@@ -41116,11 +40381,6 @@
         "negations": []
     },
     {
-        "sent_id": "102687-14-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "108739-01-01",
         "text": "Bokanmeldelse :",
         "negations": []
@@ -41341,11 +40601,6 @@
         "negations": []
     },
     {
-        "sent_id": "108739-12-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106244-01-01",
         "text": "Steffen Horn , klaver :",
         "negations": []
@@ -41418,11 +40673,6 @@
     {
         "sent_id": "106244-04-11",
         "text": "En innholdsrik plate fra en pianist det er spennende å følge med .",
-        "negations": []
-    },
-    {
-        "sent_id": "106244-04-12",
-        "text": "",
         "negations": []
     },
     {
@@ -41557,11 +40807,6 @@
     {
         "sent_id": "108264-07-04",
         "text": "Ligner til forveksling de andre fremstillinger den berømte forsker har gitt andre steder .",
-        "negations": []
-    },
-    {
-        "sent_id": "108264-07-05",
-        "text": "",
         "negations": []
     },
     {
@@ -41771,11 +41016,6 @@
     {
         "sent_id": "701242-06-07",
         "text": "Hvis scenene hadde blitt så morsomme som det var meningen at de skulle bli , ville dette blitt en trivelig ting .",
-        "negations": []
-    },
-    {
-        "sent_id": "701242-06-08",
-        "text": "",
         "negations": []
     },
     {
@@ -42507,11 +41747,6 @@
         "negations": []
     },
     {
-        "sent_id": "200183-31-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "701415-01-01",
         "text": "Nicolas Cage i helvete",
         "negations": []
@@ -42706,11 +41941,6 @@
     {
         "sent_id": "701415-09-02",
         "text": "@arilabra",
-        "negations": []
-    },
-    {
-        "sent_id": "701415-09-03",
-        "text": "",
         "negations": []
     },
     {
@@ -42925,11 +42155,6 @@
         "negations": []
     },
     {
-        "sent_id": "100632-09-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "600441-01-01",
         "text": "Prisen for velstanden",
         "negations": []
@@ -43098,11 +42323,6 @@
     {
         "sent_id": "600441-08-02",
         "text": "At den samtidig sier noe om hvilken pris enkeltpersoner har betalt for velstanden vi alle i dag nyter godt av , skulle nesten bare mangle .",
-        "negations": []
-    },
-    {
-        "sent_id": "600441-08-03",
-        "text": "",
         "negations": []
     },
     {
@@ -43507,11 +42727,6 @@
         "negations": []
     },
     {
-        "sent_id": "003283-18-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110622-01-01",
         "text": "Oasis « Dig Out Your Soul »",
         "negations": []
@@ -43656,11 +42871,6 @@
     {
         "sent_id": "110622-10-02",
         "text": "« Bag It Up » , « The Turning » , « The Shock Of The Lightning » , « Falling Down »",
-        "negations": []
-    },
-    {
-        "sent_id": "110622-10-03",
-        "text": "",
         "negations": []
     },
     {
@@ -44063,11 +43273,6 @@
         "negations": []
     },
     {
-        "sent_id": "500700-11-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "702689-01-01",
         "text": "Vakker bikkje-sex",
         "negations": []
@@ -44257,11 +43462,6 @@
     {
         "sent_id": "702689-05-06",
         "text": "Og det er jo så bra .",
-        "negations": []
-    },
-    {
-        "sent_id": "702689-05-07",
-        "text": "",
         "negations": []
     },
     {
@@ -44499,11 +43699,6 @@
         "negations": []
     },
     {
-        "sent_id": "703281-10-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001233-01-01",
         "text": "Operafantomene",
         "negations": []
@@ -44648,11 +43843,6 @@
         "negations": []
     },
     {
-        "sent_id": "001233-07-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "700513-01-01",
         "text": "Overraskelse !",
         "negations": []
@@ -44752,11 +43942,6 @@
     {
         "sent_id": "700513-08-03",
         "text": "Statham er fantastisk med hår og skjegg .",
-        "negations": []
-    },
-    {
-        "sent_id": "700513-08-04",
-        "text": "",
         "negations": []
     },
     {
@@ -45206,11 +44391,6 @@
         "negations": []
     },
     {
-        "sent_id": "201734-28-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103801-01-01",
         "text": "Viltert med Snurre og Daffy",
         "negations": []
@@ -45308,11 +44488,6 @@
     {
         "sent_id": "103801-07-01",
         "text": "Dette er helt klart ellevill action med en del kvaliteter , men etter hvert maser den mer enn den morer .",
-        "negations": []
-    },
-    {
-        "sent_id": "103801-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -45565,11 +44740,6 @@
     {
         "sent_id": "100122-10-01",
         "text": "Da tror jeg Buzz kan fenge i mange år til , i stedet for å ende opp som en slunken melkeku .",
-        "negations": []
-    },
-    {
-        "sent_id": "100122-10-02",
-        "text": "",
         "negations": []
     },
     {
@@ -45946,11 +45116,6 @@
     {
         "sent_id": "109021-22-03",
         "text": "Det hadde publikum også , især de mest ekstreme skrikhalsjentene helt foran .",
-        "negations": []
-    },
-    {
-        "sent_id": "109021-22-04",
-        "text": "",
         "negations": []
     },
     {
@@ -46760,11 +45925,6 @@
         ]
     },
     {
-        "sent_id": "602087-35-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "104901-01-01",
         "text": "C.L. Taylor :",
         "negations": []
@@ -46823,11 +45983,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "104901-03-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "302159-01-01",
@@ -47131,11 +46286,6 @@
         "negations": []
     },
     {
-        "sent_id": "302159-20-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "000984-01-01",
         "text": "Ray på nye veier",
         "negations": []
@@ -47403,11 +46553,6 @@
     {
         "sent_id": "000984-08-04",
         "text": "Da ramler han ut av det universet han har skapt , og blir mer som James Morrison – tilforlatelig fremfor formidabel .",
-        "negations": []
-    },
-    {
-        "sent_id": "000984-08-05",
-        "text": "",
         "negations": []
     },
     {
@@ -47794,11 +46939,6 @@
         "negations": []
     },
     {
-        "sent_id": "300016-18-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "600911-01-01",
         "text": "Kort og intenst",
         "negations": []
@@ -48143,11 +47283,6 @@
         "negations": []
     },
     {
-        "sent_id": "600911-09-10",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "302243-01-01",
         "text": "Nachspiel-oppgulp fra Pearl Jam-vokalist",
         "negations": []
@@ -48311,11 +47446,6 @@
         ]
     },
     {
-        "sent_id": "302243-07-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "500984-01-01",
         "text": "Suveren mørkemannsdisco",
         "negations": []
@@ -48420,11 +47550,6 @@
     {
         "sent_id": "500984-06-01",
         "text": "Bandet har med « The Reflektor » tatt ting til et helt nytt nivå og ærlig talt er jeg bekymret for hvordan de noen gang kan komme til å overgå dette .",
-        "negations": []
-    },
-    {
-        "sent_id": "500984-06-02",
-        "text": "",
         "negations": []
     },
     {
@@ -48749,11 +47874,6 @@
         ]
     },
     {
-        "sent_id": "003523-16-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109227-01-01",
         "text": "Plateanmeldelse :",
         "negations": []
@@ -48851,11 +47971,6 @@
     {
         "sent_id": "109227-08-02",
         "text": "« Hun bruker meg »",
-        "negations": []
-    },
-    {
-        "sent_id": "109227-08-03",
-        "text": "",
         "negations": []
     },
     {
@@ -49020,11 +48135,6 @@
         "negations": []
     },
     {
-        "sent_id": "102338-10-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "701606-01-01",
         "text": "Dommedag kommer , sitt ned og snakk",
         "negations": []
@@ -49134,11 +48244,6 @@
     {
         "sent_id": "701606-04-01",
         "text": "Dette er så kjedelig at den vil kunne føre til at vorspielere blir akutt edru , og i så måte er kan den nok utrette mirakler .",
-        "negations": []
-    },
-    {
-        "sent_id": "701606-04-02",
-        "text": "",
         "negations": []
     },
     {
@@ -49414,11 +48519,6 @@
         "negations": []
     },
     {
-        "sent_id": "106360-16-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "108403-01-01",
         "text": "Kjærlighet til Kairo",
         "negations": []
@@ -49624,11 +48724,6 @@
         "negations": []
     },
     {
-        "sent_id": "108403-17-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "301323-01-01",
         "text": "For tydelig identitet ?",
         "negations": []
@@ -49755,11 +48850,6 @@
     {
         "sent_id": "301323-09-02",
         "text": "Jocke Bergs særpregede vokalmelodier og forkjærligheten for det inadvendte går utover variasjonen , og gjør låter som « Beredd på allt » og « Ruta 1 » for anonyme - tross sympatiske trekk .",
-        "negations": []
-    },
-    {
-        "sent_id": "301323-09-03",
-        "text": "",
         "negations": []
     },
     {
@@ -50006,11 +49096,6 @@
         "negations": []
     },
     {
-        "sent_id": "304135-11-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "704052-01-01",
         "text": "Julelapskaus",
         "negations": []
@@ -50043,11 +49128,6 @@
     {
         "sent_id": "704052-03-02",
         "text": "\" Romjulsdrøm \" , Inne i jula \" , \" Julevals \" .",
-        "negations": []
-    },
-    {
-        "sent_id": "704052-03-03",
-        "text": "",
         "negations": []
     },
     {
@@ -50286,11 +49366,6 @@
         "negations": []
     },
     {
-        "sent_id": "001842-08-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103393-01-01",
         "text": "Utfordrende fantasi-action",
         "negations": []
@@ -50459,11 +49534,6 @@
         ]
     },
     {
-        "sent_id": "103393-07-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106097-01-01",
         "text": "Dypt ordinær",
         "negations": []
@@ -50622,11 +49692,6 @@
     {
         "sent_id": "106097-07-01",
         "text": "MORTEN STÅLE NILSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "106097-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -50800,11 +49865,6 @@
         "negations": []
     },
     {
-        "sent_id": "109566-07-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "602002-01-01",
         "text": "Drabantbyrock i toppklasse",
         "negations": []
@@ -50902,11 +49962,6 @@
     {
         "sent_id": "602002-04-06",
         "text": "Blant verdens beste rockeband .",
-        "negations": []
-    },
-    {
-        "sent_id": "602002-04-07",
-        "text": "",
         "negations": []
     },
     {
@@ -51104,11 +50159,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "600007-14-02",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "105567-01-01",
@@ -51339,11 +50389,6 @@
         "negations": []
     },
     {
-        "sent_id": "105567-08-07",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "000004-01-01",
         "text": "Mad Men ( sesong 2 )",
         "negations": []
@@ -51466,11 +50511,6 @@
     {
         "sent_id": "000004-15-01",
         "text": "Denne anmeldelsen er basert på de fire første episodene av sesong 2 , og jeg må si jeg gleder meg stort til de neste 9 , og så er det bare å vente på sesong 3 ! Mad Men har garantert mer å fortelle",
-        "negations": []
-    },
-    {
-        "sent_id": "000004-15-02",
-        "text": "",
         "negations": []
     },
     {
@@ -52139,11 +51179,6 @@
         "negations": []
     },
     {
-        "sent_id": "200520-33-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107077-01-01",
         "text": "Storslagent og frustrerende",
         "negations": []
@@ -52551,11 +51586,6 @@
         "negations": []
     },
     {
-        "sent_id": "107077-25-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "704469-01-01",
         "text": "Hev knyttneven !",
         "negations": []
@@ -52695,11 +51725,6 @@
     {
         "sent_id": "704469-07-02",
         "text": "\" Back where I belong \" , \" Evil's my friend \" , \" In the streets \" , \" Diabolical \" .",
-        "negations": []
-    },
-    {
-        "sent_id": "704469-07-03",
-        "text": "",
         "negations": []
     },
     {
@@ -53140,11 +52165,6 @@
         ]
     },
     {
-        "sent_id": "202124-18-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "201529-01-01",
         "text": "PRØVEKJØRT :",
         "negations": []
@@ -53484,11 +52504,6 @@
         ]
     },
     {
-        "sent_id": "201529-15-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "111035-01-01",
         "text": "Spillanmeldelse :",
         "negations": []
@@ -53714,11 +52729,6 @@
         "negations": []
     },
     {
-        "sent_id": "111035-11-06",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "600774-01-01",
         "text": "Betenkelig nær det hjemmesnekrede",
         "negations": []
@@ -53756,11 +52766,6 @@
     {
         "sent_id": "600774-04-05",
         "text": "Og regien har ofte lettvinte løsninger , som om filmskaperne har arbeidet på et minibudsjett .",
-        "negations": []
-    },
-    {
-        "sent_id": "600774-04-06",
-        "text": "",
         "negations": []
     },
     {
@@ -53972,11 +52977,6 @@
     {
         "sent_id": "002380-10-01",
         "text": "Flere bilder fra Turboneger-konserten på Roskilde :",
-        "negations": []
-    },
-    {
-        "sent_id": "002380-10-02",
-        "text": "",
         "negations": []
     },
     {
@@ -54404,11 +53404,6 @@
         "negations": []
     },
     {
-        "sent_id": "111141-06-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110069-01-01",
         "text": "Bulgaria",
         "negations": []
@@ -54469,11 +53464,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "110069-03-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "105855-01-01",
@@ -54617,11 +53607,6 @@
         "negations": []
     },
     {
-        "sent_id": "105855-07-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107326-01-01",
         "text": "Supergrass « Road To Rouen »",
         "negations": []
@@ -54710,11 +53695,6 @@
     {
         "sent_id": "107326-04-03",
         "text": "Det som tidligere var et skarpt , morsomt og friskt band , er blitt matt , melankolsk og mistilpasset .",
-        "negations": []
-    },
-    {
-        "sent_id": "107326-04-04",
-        "text": "",
         "negations": []
     },
     {
@@ -55218,11 +54198,6 @@
         ]
     },
     {
-        "sent_id": "201911-28-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106752-01-01",
         "text": "Matisyahu :",
         "negations": []
@@ -55329,11 +54304,6 @@
     {
         "sent_id": "106752-06-01",
         "text": "Muligheten er der på Garage i Oslo i morgen eller på Quarten i sommer .",
-        "negations": []
-    },
-    {
-        "sent_id": "106752-06-02",
-        "text": "",
         "negations": []
     },
     {
@@ -55701,11 +54671,6 @@
     {
         "sent_id": "305287-21-02",
         "text": "Det er da noe .",
-        "negations": []
-    },
-    {
-        "sent_id": "305287-21-03",
-        "text": "",
         "negations": []
     },
     {
@@ -56081,11 +55046,6 @@
         "negations": []
     },
     {
-        "sent_id": "004230-15-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "601962-01-01",
         "text": "Solid tungrock",
         "negations": []
@@ -56165,11 +55125,6 @@
     {
         "sent_id": "601962-04-04",
         "text": "Bra for det !",
-        "negations": []
-    },
-    {
-        "sent_id": "601962-04-05",
-        "text": "",
         "negations": []
     },
     {
@@ -56558,11 +55513,6 @@
         ]
     },
     {
-        "sent_id": "301630-11-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "108139-01-01",
         "text": "Grensekryssing med redningsvest",
         "negations": []
@@ -56706,11 +55656,6 @@
         "negations": []
     },
     {
-        "sent_id": "108139-10-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110840-01-01",
         "text": "Stevie Nicks :",
         "negations": []
@@ -56813,11 +55758,6 @@
         "negations": []
     },
     {
-        "sent_id": "110840-07-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103580-01-01",
         "text": "Chris Rea :",
         "negations": []
@@ -56887,11 +55827,6 @@
     {
         "sent_id": "103580-04-06",
         "text": "Disse tre er platens beste sanger .",
-        "negations": []
-    },
-    {
-        "sent_id": "103580-04-07",
-        "text": "",
         "negations": []
     },
     {
@@ -57032,11 +55967,6 @@
     {
         "sent_id": "103071-06-01",
         "text": "Jeg tror likevel de må jobbe mer med materialet sitt , for selv etter en klart godkjent konsert kjenner man fint lite sug etter å få låtene deres presentert på hjemmesteroen .",
-        "negations": []
-    },
-    {
-        "sent_id": "103071-06-02",
-        "text": "",
         "negations": []
     },
     {
@@ -57188,11 +56118,6 @@
     {
         "sent_id": "102015-11-01",
         "text": "Som et solid bidrag til norsk dokumentarlitteratur forsvarer likevel denne boken sin plass .",
-        "negations": []
-    },
-    {
-        "sent_id": "102015-11-02",
-        "text": "",
         "negations": []
     },
     {
@@ -57514,11 +56439,6 @@
         ]
     },
     {
-        "sent_id": "002747-09-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "111170-01-01",
         "text": "Rå ransbølge",
         "negations": []
@@ -57693,11 +56613,6 @@
     {
         "sent_id": "111170-07-01",
         "text": "Skal man først spille på actionsjangerens velkjente strenger , er dette måten å gjøre det på .",
-        "negations": []
-    },
-    {
-        "sent_id": "111170-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -57939,11 +56854,6 @@
     {
         "sent_id": "002423-07-04",
         "text": "Både stemmen , karismaen og energien er plutselig på plass - men da er det allerede for sent .",
-        "negations": []
-    },
-    {
-        "sent_id": "002423-07-05",
-        "text": "",
         "negations": []
     },
     {
@@ -58205,11 +57115,6 @@
         "negations": []
     },
     {
-        "sent_id": "004273-17-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "003157-01-01",
         "text": "Boogie Nights",
         "negations": []
@@ -58314,11 +57219,6 @@
     {
         "sent_id": "003157-15-01",
         "text": "Og alt dette gjør Boogie Nights til en høyst severdig og underholdende film , som kanskje er noe av det mer bisarre jeg har sett på kino i det siste .",
-        "negations": []
-    },
-    {
-        "sent_id": "003157-15-02",
-        "text": "",
         "negations": []
     },
     {
@@ -58431,11 +57331,6 @@
     {
         "sent_id": "300058-07-01",
         "text": "« Non-Fiction » legges ut for salg i Norge 16. februar .",
-        "negations": []
-    },
-    {
-        "sent_id": "300058-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -58711,11 +57606,6 @@
     {
         "sent_id": "701548-13-02",
         "text": "Ta vare på henne , filmfolk !",
-        "negations": []
-    },
-    {
-        "sent_id": "701548-13-03",
-        "text": "",
         "negations": []
     },
     {
@@ -59185,11 +58075,6 @@
         "negations": []
     },
     {
-        "sent_id": "305175-36-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107941-01-01",
         "text": "Anakonda-mat",
         "negations": []
@@ -59316,11 +58201,6 @@
     {
         "sent_id": "107941-06-05",
         "text": "I det hele tatt , de fleste av oss har sett det før .",
-        "negations": []
-    },
-    {
-        "sent_id": "107941-06-06",
-        "text": "",
         "negations": []
     },
     {
@@ -59494,11 +58374,6 @@
         "negations": []
     },
     {
-        "sent_id": "700726-11-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001061-01-01",
         "text": "Tålmodige forførere",
         "negations": []
@@ -59641,11 +58516,6 @@
         ]
     },
     {
-        "sent_id": "001061-07-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "501225-01-01",
         "text": "Popjazzplagiat",
         "negations": []
@@ -59762,11 +58632,6 @@
     {
         "sent_id": "501225-07-02",
         "text": "Si din mening her !",
-        "negations": []
-    },
-    {
-        "sent_id": "501225-07-03",
-        "text": "",
         "negations": []
     },
     {
@@ -60005,11 +58870,6 @@
         ]
     },
     {
-        "sent_id": "002618-07-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "100831-01-01",
         "text": "Vidar Busk : « Jookbox Charade »",
         "negations": []
@@ -60067,11 +58927,6 @@
     {
         "sent_id": "100831-05-02",
         "text": "« Years Since Yesterday » , « Red Lipstick » , « New Suit » og « Goodnight Moon » .",
-        "negations": []
-    },
-    {
-        "sent_id": "100831-05-03",
-        "text": "",
         "negations": []
     },
     {
@@ -60416,11 +59271,6 @@
         "negations": []
     },
     {
-        "sent_id": "600051-11-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "100866-01-01",
         "text": "Bokanmeldelse :",
         "negations": []
@@ -60699,11 +59549,6 @@
         ]
     },
     {
-        "sent_id": "100866-11-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106032-01-01",
         "text": "The Magnetic Fields :",
         "negations": []
@@ -60853,11 +59698,6 @@
     {
         "sent_id": "106032-06-02",
         "text": "« You Must Be Out Of Your Mind »",
-        "negations": []
-    },
-    {
-        "sent_id": "106032-06-03",
-        "text": "",
         "negations": []
     },
     {
@@ -61125,11 +59965,6 @@
         "negations": []
     },
     {
-        "sent_id": "600163-13-07",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109594-01-01",
         "text": "Spillanmeldelse :",
         "negations": []
@@ -61291,11 +60126,6 @@
     {
         "sent_id": "109594-11-01",
         "text": "Trailer fra PS3- og 360-spillet Afro Samurai .",
-        "negations": []
-    },
-    {
-        "sent_id": "109594-11-02",
-        "text": "",
         "negations": []
     },
     {
@@ -61588,11 +60418,6 @@
         "negations": []
     },
     {
-        "sent_id": "101857-08-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "003619-01-01",
         "text": "The A-Team",
         "negations": []
@@ -61878,11 +60703,6 @@
         "negations": []
     },
     {
-        "sent_id": "003619-22-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "300020-01-01",
         "text": "Velkommen til « Kentucky , Norge »",
         "negations": []
@@ -62002,11 +60822,6 @@
     {
         "sent_id": "300020-10-02",
         "text": "Her går tankene like mye til Irland som til USA — og så tilbake til blågrasslandet Norge .",
-        "negations": []
-    },
-    {
-        "sent_id": "300020-10-03",
-        "text": "",
         "negations": []
     },
     {
@@ -62192,11 +61007,6 @@
         "negations": []
     },
     {
-        "sent_id": "105705-08-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "705080-01-01",
         "text": "1B1-ensemblet er blitt et begrep for høy kvalitet",
         "negations": []
@@ -62341,11 +61151,6 @@
     {
         "sent_id": "705080-08-02",
         "text": "Men det viktigste var at den ble holdt !",
-        "negations": []
-    },
-    {
-        "sent_id": "705080-08-03",
-        "text": "",
         "negations": []
     },
     {
@@ -62516,11 +61321,6 @@
     {
         "sent_id": "701716-11-01",
         "text": "Slik spinner Kore-eda en vev av såre tråder , men formidler også at det er mulig å utvikle forståelse og kjærlighet på tvers av motsetninger i en familie .",
-        "negations": []
-    },
-    {
-        "sent_id": "701716-11-02",
-        "text": "",
         "negations": []
     },
     {
@@ -62754,11 +61554,6 @@
         "negations": []
     },
     {
-        "sent_id": "001670-08-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "602126-01-01",
         "text": "Fremkalte følelser og magi",
         "negations": []
@@ -62923,11 +61718,6 @@
         "negations": []
     },
     {
-        "sent_id": "602126-09-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "703046-01-01",
         "text": "Dum hund !",
         "negations": []
@@ -63030,11 +61820,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "703046-04-04",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "400565-01-01",
@@ -63608,11 +62393,6 @@
         "negations": []
     },
     {
-        "sent_id": "400565-28-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "101115-01-01",
         "text": "VGs spillerbørs :",
         "negations": []
@@ -63997,11 +62777,6 @@
         "negations": []
     },
     {
-        "sent_id": "101115-30-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001965-01-01",
         "text": "Unga no til dags",
         "negations": []
@@ -64264,11 +63039,6 @@
     {
         "sent_id": "001965-09-02",
         "text": "Nokre sperringar ligg likevel i vegen for å oppleva The Kids Are Up To No Good som eit særskild substansielt album .",
-        "negations": []
-    },
-    {
-        "sent_id": "001965-09-03",
-        "text": "",
         "negations": []
     },
     {
@@ -64580,11 +63350,6 @@
     {
         "sent_id": "108638-07-05",
         "text": "Denne romanen , Aarøs fjerde , er virkelig et vitnesbyrd om et forfatterskap i rik utvikling .",
-        "negations": []
-    },
-    {
-        "sent_id": "108638-07-06",
-        "text": "",
         "negations": []
     },
     {
@@ -64909,11 +63674,6 @@
         "negations": []
     },
     {
-        "sent_id": "300070-10-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "105165-01-01",
         "text": "Trine Rein – « Stargazer »",
         "negations": []
@@ -64986,11 +63746,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "105165-02-06",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "304309-01-01",
@@ -65384,11 +64139,6 @@
     {
         "sent_id": "304309-07-07",
         "text": "Og han forklarer henne det .",
-        "negations": []
-    },
-    {
-        "sent_id": "304309-07-08",
-        "text": "",
         "negations": []
     },
     {
@@ -65887,11 +64637,6 @@
         ]
     },
     {
-        "sent_id": "500921-12-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001885-01-01",
         "text": "Ut av obskuriteten",
         "negations": []
@@ -65989,11 +64734,6 @@
     {
         "sent_id": "001885-07-02",
         "text": "Her har Bradford Cox skapt et såpass konsist og gjennomført musikalsk univers at hovedbandet må finne seg i at det blir prioritert annerledes i tiden fremover - også i denne anmelders spillelister .",
-        "negations": []
-    },
-    {
-        "sent_id": "001885-07-03",
-        "text": "",
         "negations": []
     },
     {
@@ -66452,11 +65192,6 @@
         "negations": []
     },
     {
-        "sent_id": "000465-22-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106155-01-01",
         "text": "Velkjent og vellykket",
         "negations": []
@@ -66839,11 +65574,6 @@
     {
         "sent_id": "106155-17-03",
         "text": "Kommer også på Xbox 360 i mai .",
-        "negations": []
-    },
-    {
-        "sent_id": "106155-17-04",
-        "text": "",
         "negations": []
     },
     {
@@ -67319,11 +66049,6 @@
         "negations": []
     },
     {
-        "sent_id": "202792-18-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "202899-01-01",
         "text": "Chatteskjerm fra ViewSonic",
         "negations": []
@@ -67748,11 +66473,6 @@
         "negations": []
     },
     {
-        "sent_id": "202899-27-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "300040-01-01",
         "text": "Spansk og svingende",
         "negations": []
@@ -68164,11 +66884,6 @@
         "negations": []
     },
     {
-        "sent_id": "300040-19-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110785-01-01",
         "text": "Interaktivt Aerosmith",
         "negations": []
@@ -68258,11 +66973,6 @@
     {
         "sent_id": "110785-09-01",
         "text": "Trailer fra PS3- , 360- , Wii- og PS2-spillet Guitar Hero : Aerosmith .",
-        "negations": []
-    },
-    {
-        "sent_id": "110785-09-02",
-        "text": "",
         "negations": []
     },
     {
@@ -68413,11 +67123,6 @@
     {
         "sent_id": "107548-09-01",
         "text": "ESPEN A. HANSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "107548-09-02",
-        "text": "",
         "negations": []
     },
     {
@@ -68870,11 +67575,6 @@
         "negations": []
     },
     {
-        "sent_id": "500043-22-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "002294-01-01",
         "text": "På ville veier",
         "negations": []
@@ -69194,11 +67894,6 @@
     {
         "sent_id": "002294-10-05",
         "text": "Jeg er i hvert fall solgt .",
-        "negations": []
-    },
-    {
-        "sent_id": "002294-10-06",
-        "text": "",
         "negations": []
     },
     {
@@ -69673,11 +68368,6 @@
         ]
     },
     {
-        "sent_id": "003204-16-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109371-01-01",
         "text": "Bokanmeldelse :",
         "negations": []
@@ -69934,11 +68624,6 @@
         "negations": []
     },
     {
-        "sent_id": "109371-13-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "102158-01-01",
         "text": "Erica Jong ( red . ) :",
         "negations": []
@@ -70104,11 +68789,6 @@
                 "Affixal": true
             }
         ]
-    },
-    {
-        "sent_id": "102158-09-04",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "301240-01-01",
@@ -70480,11 +69160,6 @@
         ]
     },
     {
-        "sent_id": "301240-15-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107011-01-01",
         "text": "Innsikt i macholivet",
         "negations": []
@@ -70686,11 +69361,6 @@
     {
         "sent_id": "107011-08-03",
         "text": "Fordi Mendes tillater seg å bruke tid , blir « Jarhead » en innsiktsfull psykologisk betraktning .",
-        "negations": []
-    },
-    {
-        "sent_id": "107011-08-04",
-        "text": "",
         "negations": []
     },
     {
@@ -71332,11 +70002,6 @@
         "negations": []
     },
     {
-        "sent_id": "201374-20-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "100183-01-01",
         "text": "Robert Forster « The Evangelist »",
         "negations": []
@@ -71455,11 +70120,6 @@
     {
         "sent_id": "100183-07-02",
         "text": "« Pandanus » , « The Evangelist » , « Let Your Light In , Babe » , « A Place To Hide Away » , « It Ain't Easy »",
-        "negations": []
-    },
-    {
-        "sent_id": "100183-07-03",
-        "text": "",
         "negations": []
     },
     {
@@ -71616,11 +70276,6 @@
         "negations": []
     },
     {
-        "sent_id": "001392-09-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110371-01-01",
         "text": "Mangler nerve",
         "negations": []
@@ -71728,11 +70383,6 @@
         "negations": []
     },
     {
-        "sent_id": "110371-04-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109617-01-01",
         "text": "Flukt med vri",
         "negations": []
@@ -71801,11 +70451,6 @@
     {
         "sent_id": "109617-03-01",
         "text": "ØYSTEIN DAVID JOHANSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "109617-03-02",
-        "text": "",
         "negations": []
     },
     {
@@ -72129,11 +70774,6 @@
         "negations": []
     },
     {
-        "sent_id": "301212-09-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "107747-01-01",
         "text": "Øystein Sunde « Ute var det sol »",
         "negations": []
@@ -72240,11 +70880,6 @@
     {
         "sent_id": "107747-06-02",
         "text": "Kanskje Sunde med denne singelen vil dempe eventuelle forventninger .",
-        "negations": []
-    },
-    {
-        "sent_id": "107747-06-03",
-        "text": "",
         "negations": []
     },
     {
@@ -72463,11 +71098,6 @@
     {
         "sent_id": "601300-06-04",
         "text": "Og blodige blir de .",
-        "negations": []
-    },
-    {
-        "sent_id": "601300-06-05",
-        "text": "",
         "negations": []
     },
     {
@@ -72862,11 +71492,6 @@
         "negations": []
     },
     {
-        "sent_id": "102095-14-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "001756-01-01",
         "text": "Lite tight Tempah",
         "negations": []
@@ -73022,11 +71647,6 @@
         ]
     },
     {
-        "sent_id": "001756-05-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103737-01-01",
         "text": "En liten juvel",
         "negations": []
@@ -73159,11 +71779,6 @@
     {
         "sent_id": "103737-09-01",
         "text": "Storartet , rett og slett !",
-        "negations": []
-    },
-    {
-        "sent_id": "103737-09-02",
-        "text": "",
         "negations": []
     },
     {
@@ -73521,11 +72136,6 @@
     {
         "sent_id": "102929-25-02",
         "text": "Stilfull og konservativ hele veien , men den nye modellen som kom i fjor gjør at BMW skiller seg mindre fra Audis dempede ytre nå enn for noen år siden .",
-        "negations": []
-    },
-    {
-        "sent_id": "102929-25-03",
-        "text": "",
         "negations": []
     },
     {
@@ -73895,11 +72505,6 @@
         ]
     },
     {
-        "sent_id": "702446-08-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "105571-01-01",
         "text": "Spillanmeldelse :",
         "negations": []
@@ -74260,11 +72865,6 @@
         "negations": []
     },
     {
-        "sent_id": "105571-18-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "601158-01-01",
         "text": "Sær intrige , flott fortalt",
         "negations": []
@@ -74367,11 +72967,6 @@
     {
         "sent_id": "601158-07-03",
         "text": "\" Presteskapet \" er hennes første roman .",
-        "negations": []
-    },
-    {
-        "sent_id": "601158-07-04",
-        "text": "",
         "negations": []
     },
     {
@@ -75106,11 +73701,6 @@
         ]
     },
     {
-        "sent_id": "202389-28-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "109778-01-01",
         "text": "« Homeland 2 » :",
         "negations": []
@@ -75343,11 +73933,6 @@
     {
         "sent_id": "109778-14-02",
         "text": "Mer , mer , mer !",
-        "negations": []
-    },
-    {
-        "sent_id": "109778-14-03",
-        "text": "",
         "negations": []
     },
     {
@@ -75847,11 +74432,6 @@
         "negations": []
     },
     {
-        "sent_id": "303715-22-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "002575-01-01",
         "text": "Teskjekjerringa",
         "negations": []
@@ -76060,11 +74640,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "002575-07-05",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "001478-01-01",
@@ -76550,11 +75125,6 @@
         ]
     },
     {
-        "sent_id": "001478-08-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "111260-01-01",
         "text": "Spillanmeldelse :",
         "negations": []
@@ -76804,11 +75374,6 @@
         "negations": []
     },
     {
-        "sent_id": "111260-09-08",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "300474-01-01",
         "text": "Finske sukkerspinn-rockere",
         "negations": []
@@ -76999,11 +75564,6 @@
     {
         "sent_id": "300474-13-01",
         "text": "Men dømt ut ifra bandets egen målestokk , er platen verken oppe blant de beste eller nede ved de svakeste .",
-        "negations": []
-    },
-    {
-        "sent_id": "300474-13-02",
-        "text": "",
         "negations": []
     },
     {
@@ -77261,11 +75821,6 @@
         "negations": []
     },
     {
-        "sent_id": "304562-09-06",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "102785-01-01",
         "text": "Mytoman løgnhals",
         "negations": []
@@ -77457,11 +76012,6 @@
     {
         "sent_id": "102785-09-04",
         "text": "Og ondskapen et ansikt .",
-        "negations": []
-    },
-    {
-        "sent_id": "102785-09-05",
-        "text": "",
         "negations": []
     },
     {
@@ -77734,11 +76284,6 @@
         "negations": []
     },
     {
-        "sent_id": "301688-21-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "101012-01-01",
         "text": "Lene Nystrøm – « Rompa mi » :",
         "negations": []
@@ -77806,11 +76351,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "101012-02-05",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "003382-01-01",
@@ -78157,11 +76697,6 @@
         ]
     },
     {
-        "sent_id": "003382-16-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "103367-01-01",
         "text": "« The Graduate »",
         "negations": []
@@ -78235,11 +76770,6 @@
     {
         "sent_id": "103367-04-01",
         "text": "Sistnevnte beholdning føles like utgått på dato som selve filmen , der en tretti år gammel Dustin Hoffman spiller en ti år yngre mann på jakt etter seg selv , i et amerikansk sekstitall som allerede var på vei inn i historien i det politisk og kulturelt stormfulle året 1967 .",
-        "negations": []
-    },
-    {
-        "sent_id": "103367-04-02",
-        "text": "",
         "negations": []
     },
     {
@@ -78514,11 +77044,6 @@
         "negations": []
     },
     {
-        "sent_id": "100915-15-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "100013-01-01",
         "text": "Benedicte Maurseth / Åsne Valland Nordli / Berit Opheim / Kristin « Skaare Fodne ho svara stilt »",
         "negations": []
@@ -78556,11 +77081,6 @@
     {
         "sent_id": "100013-06-03",
         "text": "{ ldquo } Moltor og Myrabær { ldquo } og { ldquo } Langeleiklåt \" er blant høydepunktene .",
-        "negations": []
-    },
-    {
-        "sent_id": "100013-06-04",
-        "text": "",
         "negations": []
     },
     {
@@ -78836,11 +77356,6 @@
         "negations": []
     },
     {
-        "sent_id": "703462-09-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "102362-01-01",
         "text": "Strålende Sundfør",
         "negations": []
@@ -78962,11 +77477,6 @@
         "negations": []
     },
     {
-        "sent_id": "102362-10-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "105949-01-01",
         "text": "Bare Egil Band :",
         "negations": []
@@ -79073,11 +77583,6 @@
         "negations": []
     },
     {
-        "sent_id": "105949-05-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "102176-01-01",
         "text": "Plateanmeldelse :",
         "negations": []
@@ -79160,11 +77665,6 @@
     {
         "sent_id": "102176-07-01",
         "text": "TOR MARTIN BØE",
-        "negations": []
-    },
-    {
-        "sent_id": "102176-07-02",
-        "text": "",
         "negations": []
     },
     {
@@ -79726,11 +78226,6 @@
     {
         "sent_id": "201470-32-01",
         "text": "Skjermen har en listepris på over 10 275 kroner , men ut måneden selges den med 25 % rabatt og prisen blir da 7 725,31 ( ! ) .",
-        "negations": []
-    },
-    {
-        "sent_id": "201470-32-02",
-        "text": "",
         "negations": []
     },
     {
@@ -80652,11 +79147,6 @@
         "negations": []
     },
     {
-        "sent_id": "200140-30-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "700338-01-01",
         "text": "Et fantasiens mesterverk",
         "negations": []
@@ -80987,11 +79477,6 @@
     {
         "sent_id": "700338-12-05",
         "text": "Løp og se .",
-        "negations": []
-    },
-    {
-        "sent_id": "700338-12-06",
-        "text": "",
         "negations": []
     },
     {
@@ -81806,11 +80291,6 @@
         "negations": []
     },
     {
-        "sent_id": "201849-28-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "303179-01-01",
         "text": "Et alle tiders dypdykk i 80 års blueshistorie",
         "negations": []
@@ -82133,11 +80613,6 @@
     {
         "sent_id": "303179-18-02",
         "text": "En tilsvarende samling finnes også for jazz .",
-        "negations": []
-    },
-    {
-        "sent_id": "303179-18-03",
-        "text": "",
         "negations": []
     },
     {
@@ -82618,11 +81093,6 @@
         ]
     },
     {
-        "sent_id": "700034-12-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "100120-01-01",
         "text": "Reality sucks",
         "negations": []
@@ -82682,11 +81152,6 @@
     {
         "sent_id": "100120-04-01",
         "text": "ØYSTEIN DAVID JOHANSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "100120-04-02",
-        "text": "",
         "negations": []
     },
     {
@@ -83047,11 +81512,6 @@
         "negations": []
     },
     {
-        "sent_id": "302049-10-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106148-01-01",
         "text": "Son Volt :",
         "negations": []
@@ -83149,11 +81609,6 @@
         "negations": []
     },
     {
-        "sent_id": "106148-08-03",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "106902-01-01",
         "text": "Beckstrøm :",
         "negations": []
@@ -83201,11 +81656,6 @@
     {
         "sent_id": "106902-07-02",
         "text": "På denne jevnt , gode platen er « Kina » , « Heksevisa » og « Hvite dager » trioen som rager litt høyere enn de andre .",
-        "negations": []
-    },
-    {
-        "sent_id": "106902-07-03",
-        "text": "",
         "negations": []
     },
     {
@@ -83815,11 +82265,6 @@
         "negations": []
     },
     {
-        "sent_id": "202607-24-05",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "110613-01-01",
         "text": "Ektefølt , men schizofrent",
         "negations": []
@@ -83934,11 +82379,6 @@
     {
         "sent_id": "110613-05-04",
         "text": "Supermodellen Gemma Ward fyller rollen sin med fortryllende « girl next door-sjarm » , og en Oscar-jury svak for autistroller har nok allerede notert seg navnet Luke Ford .",
-        "negations": []
-    },
-    {
-        "sent_id": "110613-05-05",
-        "text": "",
         "negations": []
     },
     {
@@ -84129,11 +82569,6 @@
     {
         "sent_id": "300972-09-03",
         "text": "Begge de nevnte bena er godt plantet i bakken .",
-        "negations": []
-    },
-    {
-        "sent_id": "300972-09-04",
-        "text": "",
         "negations": []
     },
     {
@@ -84378,11 +82813,6 @@
         ]
     },
     {
-        "sent_id": "704974-11-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "111678-01-01",
         "text": "Lettvint",
         "negations": []
@@ -84452,11 +82882,6 @@
     {
         "sent_id": "111678-06-01",
         "text": "ØYSTEIN DAVID JOHANSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "111678-06-02",
-        "text": "",
         "negations": []
     },
     {
@@ -85652,11 +84077,6 @@
         "negations": []
     },
     {
-        "sent_id": "201835-58-02",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "602054-01-01",
         "text": "Smelter pikehjerter",
         "negations": []
@@ -85786,11 +84206,6 @@
     {
         "sent_id": "602054-03-06",
         "text": "Vi gamlinger kan bare ignorere dette albumet som en fotnote i historien .",
-        "negations": []
-    },
-    {
-        "sent_id": "602054-03-07",
-        "text": "",
         "negations": []
     },
     {
@@ -86048,11 +84463,6 @@
         ]
     },
     {
-        "sent_id": "703555-07-04",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "300178-01-01",
         "text": "Arne Lygre går nok en gang dypt inn i menneskelige kjerner",
         "negations": []
@@ -86294,11 +84704,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "300178-13-03",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "103164-01-01",
@@ -86601,11 +85006,6 @@
         "negations": []
     },
     {
-        "sent_id": "103164-14-09",
-        "text": "",
-        "negations": []
-    },
-    {
         "sent_id": "300789-01-01",
         "text": "Fra gangsta til pus",
         "negations": []
@@ -86722,11 +85122,6 @@
                 "Affixal": false
             }
         ]
-    },
-    {
-        "sent_id": "300789-07-02",
-        "text": "",
-        "negations": []
     },
     {
         "sent_id": "000076-01-01",
@@ -86943,11 +85338,6 @@
     {
         "sent_id": "000076-27-01",
         "text": "Jeg er spent på neste kapittel i historien og håper at serieskaperne har tatt seg i nakkeskinnet for fjerde sesong av serien",
-        "negations": []
-    },
-    {
-        "sent_id": "000076-27-02",
-        "text": "",
         "negations": []
     },
     {
@@ -87419,11 +85809,6 @@
     {
         "sent_id": "102359-16-01",
         "text": "MORTEN STÅLE NILSEN",
-        "negations": []
-    },
-    {
-        "sent_id": "102359-16-02",
-        "text": "",
         "negations": []
     }
 ]
