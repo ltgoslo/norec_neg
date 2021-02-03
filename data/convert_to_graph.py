@@ -5,7 +5,6 @@ import json
 import stanza
 
 from nltk.tokenize.simple import SpaceTokenizer
-from import_norec import import_conllu
 
 tk = SpaceTokenizer()
 
