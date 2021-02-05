@@ -22695,7 +22695,7 @@
                         "23:73"
                     ]
                 ],
-                "Affixal": true
+                "Affixal": false
             }
         ]
     },
@@ -25990,7 +25990,7 @@
                         "34:57"
                     ]
                 ],
-                "Affixal": true
+                "Affixal": false
             },
             {
                 "Cue": [
@@ -76524,7 +76524,7 @@
                         "14:25"
                     ]
                 ],
-                "Affixal": true
+                "Affixal": false
             },
             {
                 "Cue": [
