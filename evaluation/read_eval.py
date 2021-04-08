@@ -2,6 +2,7 @@ import re
 import numpy as np
 # import itertools as it
 from tabulate import tabulate
+from typing import Dict
 
 
 name_map = {"point_to_root": "Point-to-root",
@@ -15,7 +16,7 @@ name_map = {"point_to_root": "Point-to-root",
 
 categories = ("Cues",
               "Scopes(cue match)",
-              "Scopes(no cue match)",
+              # "Scopes(no cue match)",
               "Scope tokens(no cue match)",
               "Full negation"
               )
@@ -38,22 +39,22 @@ def fscore(p: float, r: float) -> float:
     return (2 * p * r) / (p + r + float(1e-6))
 
 
-def read_eval_output(fn: str):
+def read_eval_output(fh) -> Dict[str, Dict[str, int]]:
     results = {}
-    with open(fn) as fh:
-        for _line in fh:
-            line = _line.split(":")
-            category = line[0]
-            if category in categories:
-                numbers = [int(x.group(0)) for x in re.finditer(r"\d+", _line)][:5]
-                gold, system, tp, fp, fn = numbers
-                results[category] = {"gold": gold,
-                                     "system": system,
-                                     "tp": tp,
-                                     "fp": fp,
-                                     "fn": fn}
-                if category == "Full negation":
-                    return results
+    for _line in fh:
+        line = _line.split(":")
+        category = line[0]
+        if category in categories:
+            numbers = [int(x.group(0)) for x in re.finditer(r"\d+", _line)][:5]
+            gold, system, tp, fp, fn = numbers
+            results[category] = {"gold": gold,
+                                 "system": system,
+                                 "tp": tp,
+                                 "fp": fp,
+                                 "fn": fn}
+            if category == "Full negation":
+                return results
+    raise Exception("There should have been a full negation")
 
 
 def main(folder: str, devtest: str):
@@ -67,7 +68,8 @@ def main(folder: str, devtest: str):
         # sub_metrics = {m: [] for m in it.product(categories, ["Prec", "Rec", "F1"])}
         sub_metrics = {m: [] for m in categories}
         for i in [1, 2, 3, 4, 5]:
-            results = read_eval_output(f"{folder}/{setup}/{devtest}.run_{i}.eval")
+            with open(f"{folder}/{setup}/{devtest}.run_{i}.eval") as fh:
+                results = read_eval_output(fh)
             for k, v in results.items():
                 p = precision(v["tp"], v["fp"])
                 r = recall(v["tp"], v["fn"])
