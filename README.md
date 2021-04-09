@@ -62,32 +62,15 @@ Additionally, each negation in a sentence is a dictionary with the following key
 
 
 ```
-{
-	"sent_id": "400620-03-06",
-	"text": "Den så jeg ikke komme .",
-	"negations": [
-		{
-			"Cue": [
-				[
-					"ikke"
-				],
-				[
-					"11:15"
-				]
-			],
-			"Scope": [
-				[
-					"Den så jeg",
-					"komme"
-				],
-				[
-					"0:10",
-					"16:21"
-				]
-			],
-			"Affixal": false
-		}
-	]
+{"sent_id": "400620-03-06",
+ "text": "Den så jeg ikke komme .",
+ "negations": [{"Cue": [["ikke"],
+	  	        ["11:15"]],
+		"Scope": [["Den så jeg",
+			    "komme"],
+			   ["0:10",
+			    "16:21"]],
+			  "Affixal": false}]
 },
 ```
 
