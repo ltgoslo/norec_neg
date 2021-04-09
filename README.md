@@ -1,7 +1,7 @@
 # NoReC_neg
 
-This dataset annotates negation cues and their related scopes for Norwegian. The data comprises more than 11,000 sentences across more than 400 reviews and 9 different thematic categories (literature, products, restaurants, etc.), taken from  a subset of the [Norwegian Review Corpus](https://github.com/ltgoslo/norec) (NoReC; [Velldal et al. 2018](http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf))
-
+This dataset annotates negation cues and their related scopes for Norwegian. The data comprises more than 11,000 sentences across more than 400 reviews and 9 different thematic categories (literature, products, restaurants, etc.), taken from  a subset of the [Norwegian Review Corpus](https://github.com/ltgoslo/norec) (NoReC). The annotation effort is described in the forthcoming NoDaLiDa 2021 paper _Negation in Norwegian: an annotated dataset_, by 
+P. Mæhlum, J. Barnes, R. Kurtz, L. Øvrelid, and E. Velldal.
 
 ## Overview
 This dataset is based on the same documents as those annotated for fine-grained sentiment in the extended version of [NoReC_fine](https://github.com/ltgoslo/norec_fine), a subset of NoReC. (Four documents were removed as they were found to contain formatting errors that interferred with the annotations.) All sentences have been annotated, regardless of whether they were sentiment-bearing or not. The data comes with a predefined train/dev/test split (inherited from NoReC), and some key statistics are summarized in the table below, including frequency counts and average token lengths.
