@@ -47,17 +47,13 @@ The licence is motivated by the need to block the possibility of third parties r
 Each sentence has a dictionary with the following keys and values:
 
 * 'sent_id': unique NoReC identifier for document + paragraph + sentence which lines up with the identifiers from the document and sentence-level NoReC data
-
 * 'text': raw text
-
 * 'negations': list of all negations (dictionaries) in the sentence
 
 Additionally, each negation in a sentence is a dictionary with the following keys and values:
 
 * 'Cue': a list of text and character offsets for the negation cues
-
 * 'Scope': a list of text and character offsets for the negation scopes
-
 * 'Affixal': (True, False). Indicating whether the cue is affixal (prefix,suffix) or not.
 
 
