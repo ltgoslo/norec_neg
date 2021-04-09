@@ -9,22 +9,22 @@ This dataset is based on the same documents as those annotated for fine-grained 
 
 | Type              | Train  | Dev    | Test     |  Total  |
 | :--------         |-------:|-------:|-------:  |-------: |
-| Sentences         |  8,543 |   1531  |    1272 |   11346 |
-| --- with negation |  1768  |   301   |    263  |   2332  |
-| Cues           	|  2025  |  342    |    305  |   2672  |
-| --- min length    |  1     |  1      |    1    |   1     |
-| --- max length    |  3     |  2      |    2    |   3     |
-| --- avg length    |  1.0   |  1.0    |   1.0   |   1.0   |
-| --- discontinuous |  19    |  0      |   2     |   21    |
-| --- multiple per sent| 228 |  39     |   37    |   304   |
-| --- affixal       | 505    |   88    |   69    |   662   |
-| Scopes            | 1995   |  339    |   301   |    2635 |
-| --- min length    | 1      |  1      |   1     |   1     |
-| --- max length    | 44     |  53     |  27     |  53     |
-| --- avg length    |  6.9   |   7.1   |  6.5    |  6.9    |
-| --- null          |  30    |  3      |  4      |  37     |
-| --- discontinuous |  1403  |  236    |  203    | 1842    |
-| --- true discontinuous | 423 |  85   |  58     | 566     |
+| **Sentences**         |  8,543 |   1531  |    1272 |   11346 |
+| – with negation |  1768  |   301   |    263  |   2332  |
+| **Cues**           	|  2025  |  342    |    305  |   2672  |
+| – min length    |  1     |  1      |    1    |   1     |
+| – max length    |  3     |  2      |    2    |   3     |
+| – avg length    |  1.0   |  1.0    |   1.0   |   1.0   |
+| – discontinuous |  19    |  0      |   2     |   21    |
+| – multiple per sent| 228 |  39     |   37    |   304   |
+| – affixal       | 505    |   88    |   69    |   662   |
+| **Scopes**            | 1995   |  339    |   301   |    2635 |
+| – min length    | 1      |  1      |   1     |   1     |
+| – max length    | 44     |  53     |  27     |  53     |
+| – avg length    |  6.9   |   7.1   |  6.5    |  6.9    |
+| – null          |  30    |  3      |  4      |  37     |
+| – discontinuous |  1403  |  236    |  203    | 1842    |
+| – true discontinuous | 423 |  85   |  58     | 566     |
 
 
 Null scopes are usually sentences such as "Nei." ("No"), which contain only a negation cue. Many of the negation annotations contain discontinuous scopes because of a negation cue breaking up the scope. True discontinuous scopes, on the other hand, are less common, and are often caused by an adverbial which is out of scope but embedded within a negation scope.
