@@ -102,6 +102,58 @@ Note that a single sentence may contain several annotated negations. All negatio
             data[name] = json.load(infile)
 ```
 
+
+
+## Requirements for negation graph model
+1. Python >= 3.6.1
+2. Requires PyTorch version 1.2.0. This needs to be installed first and also depends on whether you would like to install the GPU or CPU version, see the following to install [Pytorch 1.2.0 and it's variants of GPU or CPU version.](https://pytorch.org/get-started/previous-versions/#v120)
+3. sklearn
+4. tabulate
+5. h5py
+6. tqdm
+7. nltk
+8. stanza
+9. matplotlib
+
+
+
+## Training model
+The scripts required to train the dependency graph model for predicting negation is found in the 'modeling' directory.
+
+The first thing to do is to download the Norwegian word embeddings from NLPL
+
+```
+wget http://vectors.nlpl.eu/repository/20/58.zip
+```
+
+You will then need to set the 'EXTERNAL' variable in 'src/run_neggraph.sh' to point to the downloaded vectors. There is no need to unzip the file.
+
+```
+EXTERNAL=../58.zip
+```
+
+Next, you will need to convert the json data to CONLLU negation graph format. You can use the script in the 'data' directory, which takes a single argument '--setup' (point_to_root, head_final, head_first, head_final-inside_label, head_first-inside_label). We set point_to_root as the default, as this gives the best results:
+
+```
+cd data
+python3 convert_to_graph.py --setup point_to_root
+cd ..
+```
+
+Now you can train a model from the 'modeling' directory using the 'run_neggraph.sh' script. It takes three arguments: the graph setup (point_to_root), the run number (0-5), and the random seed number.
+```
+cd modeling
+./scripts/run_neggraph.sh point_to_root 0 1234
+```
+
+Alternatively, you can run the script 'run_experiments.sh' to repeat the experiments from the paper.
+```
+cd modeling
+./scripts/run_experiments.sh
+```
+
+
+
 ## Cite
 
 ```
