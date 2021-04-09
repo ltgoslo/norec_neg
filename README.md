@@ -1,9 +1,10 @@
 # NoReC_neg
 
-This dataset contains 414 documents annotated with negation cue and the related scope. Four documents have been removed compared to NoReC fine and NoReC eval, as these were found to contain formatting errors in the original documents that interferred with the annotations.
+This dataset annotates negation cues and their related scopes for Norwegian. The data comprises more than 11,000 sentences across more than 400 reviews and 9 different thematic categories (literature, products, restaurants, etc.), taken from  a subset of the [Norwegian Review Corpus](https://github.com/ltgoslo/norec) (NoReC; [Velldal et al. 2018](http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf))
+
 
 ## Overview
-This dataset is based on the same documents as the extended version of norec_fine. However, this datasets is annotated without comparing it to the previously labeled data. It therefore contains some negations that overlap with evaluative sentences from these, and some that do not. This data comprises roughly 11,000 sentences across more than 400 reviews and 9 different thematic categories (literature, products, restaurants, etc.), taken from  a subset of the [Norwegian Review Corpus](https://github.com/ltgoslo/norec) (NoReC; [Velldal et al. 2018](http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf)). The data comes with a predefined train/dev/test split (inherited from NoReC), and some key statistics are summarized in the table below, including frequency counts and average token lengths.
+This dataset is based on the same documents as those annotated for fine-grained sentiment in the extended version of [NoReC_fine](https://github.com/ltgoslo/norec_fine), a subset of NoReC. (Four documents were removed as they were found to contain formatting errors that interferred with the annotations.) All sentences have been annotated, regardless of whether they were sentiment-bearing or not. The data comes with a predefined train/dev/test split (inherited from NoReC), and some key statistics are summarized in the table below, including frequency counts and average token lengths.
 
 
 | Type              | Train  | Dev    | Test     |  Total  |
@@ -13,14 +14,14 @@ This dataset is based on the same documents as the extended version of norec_fin
 | Cues           	|  2025  |  342    |    305  |   2672  |
 | --- min length    |  1     |  1      |    1    |   1     |
 | --- max length    |  3     |  2      |    2    |   3     |
-| --- ave length    |  1.0   |  1.0    |   1.0   |   1.0   |
+| --- avg length    |  1.0   |  1.0    |   1.0   |   1.0   |
 | --- discontinuous |  19    |  0      |   2     |   21    |
 | --- multiple per sent| 228 |  39     |   37    |   304   |
 | --- affixal       | 505    |   88    |   69    |   662   |
 | Scopes            | 1995   |  339    |   301   |    2635 |
 | --- min length    | 1      |  1      |   1     |   1     |
 | --- max length    | 44     |  53     |  27     |  53     |
-| --- ave length    |  6.9   |   7.1   |  6.5    |  6.9    |
+| --- avg length    |  6.9   |   7.1   |  6.5    |  6.9    |
 | --- null          |  30    |  3      |  4      |  37     |
 | --- discontinuous |  1403  |  236    |  203    | 1842    |
 | --- true discontinuous | 423 |  85   |  58     | 566     |
@@ -31,7 +32,7 @@ Null scopes are usually sentences such as "Nei." ("No"), which contain only a ne
 
 ## Annotation guidelines
 
-The full annotation guidelines are distributed with this repo and can be found [here](annotation_guidelines/guidelines.md). A summary can also be found in the [paper](https://www.aclweb.org/anthology/2020.lrec-1.618).
+The full annotation guidelines are distributed with this repo and can be found [here](annotation_guidelines/guidelines.md). A summary can also be found in the accompanying paper (NoDaLiDa 2021; forthcoming).
 
 ## Terms of use
 NoReC_neg inherits the license of the underlying [NoReC](https://github.com/ltgoslo/norec) corpus, copied here for convenience:
@@ -157,15 +158,12 @@ cd modeling
 ## Cite
 
 ```
-@inproceedings{ovrelid-etal-2020-fine,
+@inproceedings{MaeBarKur21,
     title = "Negation in {N}orwegian: an annotated dataset",
-    author = "M{\ae}hlum, Petter  and
-      Barnes, Jeremy  and
-      Kurtz, Robin and
-      {\O}vrelid, Lilja  and
-      Velldal, Erik",
+    author = "M{\ae}hlum, Petter and Barnes, Jeremy  and
+      Kurtz, Robin and {\O}vrelid, Lilja  and Velldal, Erik",
     booktitle = "Proceedings of the 23rd Nordic Conference on Computational Linguistics",
-    year = "2021",
+    year = "2021"
 }
 
 ```
