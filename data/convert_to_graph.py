@@ -371,7 +371,7 @@ def sanity_check(sent_id, fine, doclevel, verbose=False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--setup", default="head_first")
+    parser.add_argument("--setup", default="point_to_root")
 
     args = parser.parse_args()
 
