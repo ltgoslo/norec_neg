@@ -358,30 +358,27 @@ Several lexical items can indicate the abscense of something. In many cases, the
 Cues that indicate negation may often also be used with a non-negated meaning. This can happen in fixed expressions, or with the cues themselves. The expressions can be rephrased to check if this is the case. Some examples follow below.
 
 ### ikke bare 
-The phrase *ikke bare* 'not only' does not indicate negation of the words or phrases it modifies.
+Although the phrase *ikke bare* 'not only' does not indicate negation of the words or phrases it modifies, we do annotate the negation in this expression because although the usage is clearly focusing, the meaning is compositional.
 
 ```
 Jeg spiste ikke bare pizza, men fire hamburgere også!
 I did not only eat pizza, but also four hamburgers!
 ```
 
-One could think that *only pizza* is negated, in the sense that the hypothetical situation of only eating pizza is negated, but in this case we prefer to see "ikke bare" as emphasising eddition, not negation. 
+One could think that *only pizza* is negated, in the sense that the hypothetical situation of only eating pizza is negated.
 
 ### Ingen hemmelighet at
-Expressions like "ingen hemmelighet (at)" and related expressions do not negate the following expressions. The reason why these are not considered negations is that it would be unnatural to consider the sentences negations of "it is a secret that..." etc. These are emphatic expressions. 
+Expressions like *ingen hemmelighet (at)* "it is a secret that...", *(det er) ingen tvil om (at)* 'there is no doubt that...' and related expressions do are similar to "ikke bare" in the sense that they are not used to negate the following expressions. Although it might seem unnatural to see these as negations, we chose to annotate them as such because of their compositionality. 
 
 ```
 Det er ingen hemmelighet at nordmenn er et quiz-elskende folkeferd.
 It is no secret that Norwegians are a quiz-loving people.
 ```
 
-It does not mean that Norwegians are not a quiz-loving people. It is somewhat strange to see it as a negation of "det er en hemmelighet at nordmenn er et quiz-elskende folkeferd". "Det er ingen hemmelighet at" should be seen as a complex cue that does not indicate negation, as noted above.
-
-Other similar expressions are:
-- *(det er) ingen tvil om (at)* 'there is no doubt that...'
+It does not mean that Norwegians are not a quiz-loving people. Note that these can be a bit difficult as it is somewhat strange to see it as a negation of "det er en hemmelighet at nordmenn er et quiz-elskende folkeferd". 
 
 ### Hvis ikke
-The frequent combination *hvis ikke* 'if not;otherwise' contains the word *ikke*, but does not indicate negation, and is not marked as such. It is used to indicate the hypothetical outcome of the negation of something that has been previous mentioned, and this is outside the scope of this annotation effort.
+The frequent combination *hvis ikke* 'if not; otherwise' contains the word *ikke*, but does not indicate negation, and is not marked as such. It is used to indicate the hypothetical outcome of the negation of something that has been previous mentioned, and this is outside the scope of this annotation effort.
 
 ```
 Hvis ikke kommer jeg nok til å fortsette å le mer enn jeg blir grepet av Frikjents stadige høydramatiske vendepunkt.
@@ -394,7 +391,6 @@ This should not be confused with a negation within a conditional clause, as in "
 
 
 # Special cases
-
 
 ## Verken eller inside scope
 Some items, like 'både...og' and 'også' have analoguous forms inside the scope of a negation, giving (h)verken...eller and heller. In the case where these forms are triggered by an outisde negation cue, they should not be annotated as being inside the scope. If verken...eller is not within the scope of another negation, then it is likely to be a cue.
