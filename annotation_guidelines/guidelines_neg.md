@@ -53,9 +53,8 @@ March 2020
 
 
 # Introduction
-Negation annotation involves identifying negations within a given sentence. Several corpora with negation annotation have been created, but none for Norwegian so far. These annotation guidelines are mainly adopted from the Spanish SFU (Jiménez-Zafra et al.), ConanDoyle-neg (Morante and Daelemans) and NegPar (Liu et al.), and modified to suit Norwegian, and with some simplifications that will be discussed below. The descriptions are mainly based on the Bokmål standard.
+Negation annotation involves identifying negations within a given sentence. Several corpora with negation annotation have been created, but none for Norwegian so far. These annotation guidelines are mainly adopted from the Spanish SFU (Jiménez-Zafra et al., 2017), ConanDoyle-neg (Morante and Daelemans, 2021) and NegPar (Liu et al., 2018), and modified to suit Norwegian, and with some simplifications that will be discussed below. The descriptions are mainly based on the Bokmål standard since there are few typological differences between Bokmål and Nynorsk, but the guidelines also cover Nynorsk.
 
-Addendum: side 88 om adverbialer i Lie(2003)
 
 # Terminology
 
@@ -63,40 +62,40 @@ Addendum: side 88 om adverbialer i Lie(2003)
 The negation cue is the word that signals a negation. These are often common words such as *ikke* 'not', *aldri* 'never' or *ingenting* 'nothing', but they can also be complex such as *(på) ingen måte* '(in) no way'. Negation cues might also be morpological, i.e affixes such as *u-* 'un-' and -løs '-less'. There are also various lexical items that can function as negation cues, such as *la være å* 'refrain from'. "Lexical negation" in the sense of antonymy, as in seeing "bad" as a negation of "good" is *not* annotated. We use "lexical negation" to refer to negation using lexical items that are composed of elements that are not traditionally seen as negation items, such as *la være* (lit. 'let be') mentioned above, and *mangle* 'lack', and many more. These will be further discussed in the following guidelines. In this project we we do not annotate cases where modality is inseparable from negation, or cases of vaguely impled negation.
 
 ## Scope
-The scope is the part of the sentence or clause that is affected by the negation cue. Perhaps somewhat confusingly, the scope of a cue can involve elements that might not feel negated, as is the case, for example, with subjects of a phrase. Other annotation efforts annotate the "event" of a negation, which more closely refers to the word that is more directly affected by the negation. The scope is defined differently according to different cues. These rules are described in more detail towards the end of the guidelines. 
+The scope is the part of the sentence or clause that is affected by the negation cue. Perhaps somewhat confusingly, the scope of a cue can involve elements that might not feel negated, as is the case, for example, with subjects of a phrase. Other annotation efforts annotate the "event" of a negation, which more closely refers to the word that is more directly affected by the negation, but we have chosen not to annotate the event. The scope is defined differently according to different cues. These rules are described in more detail towards the end of the guidelines. 
 
 # Negation in Norwegian
 Descriptions of negation in Norwegian mostly talk about negation adverbs and quantors, and not much about lexical negation in the way we have defined it above. Several works have been written regarding placement of negation in V2-languages and other related phenomena. 
-The following is a brief description of negation in Norwegian. For further information about negation in Norwegian, see for example Faarlund, Lie and Vannebo's Norwegian reference grammar (Faarlund et al.).
+The following is a brief description of negation in Norwegian. For further information about negation in Norwegian, see for example Faarlund, Lie and Vannebo's Norwegian reference grammar (Faarlund et al., 1997).
 
 Negation in Norwegian is often marked by the use of adverbs (most notably *ikke* 'not'), pronouns or determiners, but other parts of speech or phrases are also used. Like in English, affixal negation is possible, but there is also the question of to which degree affixal negation is equal to non-affixal negation. There is usually a slight difference, as in English. Affixal negation is marked nevertheless in this annotation scheme. *Ikke* has a slightly different placement compared to English, with it coming before the verb in subordinate phrases.
 
-An exception to the abovementioned lack of descriptions of Norwegian negation is the description of Norwegian negation found in Golden et al. (2014)'s Norsk som fremmedspråk. In addition to a detailed description of the system outlined above, they also mention some positive polarity items (også, til og med, attpåtil, fremdeles) and some negative polarity items (heller (ikke), (ikke) engang, (ikke) lenger), but only with a brief discussion. They devote a few sentences to negating verbs (nektende verb), and mention *nekte* 'deny', *benekte* 'deny', *negere* 'negate', *avslå* 'decline' and *takke nei* 'decline'. Lastly they mention that words from several word classes can be negated by the use of prefixes.
+An exception to the above-mentioned lack of descriptions of Norwegian negation is the description of Norwegian negation found in Golden et al. (2014)'s Norsk som fremmedspråk. In addition to a detailed description of the system outlined above, they also mention some positive polarity items (også, til og med, attpåtil, fremdeles) and some negative polarity items (heller (ikke), (ikke) engang, (ikke) lenger), but only with a brief discussion. They devote a few sentences to negating verbs (nektende verb), and mention *nekte* 'deny', *benekte* 'deny', *negere* 'negate', *avslå* 'decline' and *takke nei* 'decline'. Lastly they mention that words from several word classes can be negated by the use of prefixes.
 
-If we look at the ConanDoyle-neg corpus (site), we find that *not* accounts for roughly 31% of all negation cues, *no* (as a determiner) for 14%, *never* 6%, *nothing* 6% and *without* just below 3%. One difference between Norwegian and English in this regard is that certain combined forms, such as *cannot*, *won't* etc. are treated as single cues in ConanDoyle, but although these exist in spoken Norwegian, they are not used in formal writing, and are thus unlikely to be found in any great abundance.
+If we look at the ConanDoyle-neg corpus, we find that *not* accounts for roughly 31% of all negation cues, *no* (as a determiner) for 14%, *never* 6%, *nothing* 6% and *without* just below 3%. One difference between Norwegian and English in this regard is that certain combined forms, such as *cannot*, *won't* etc. are treated as single cues in ConanDoyle, but although these exist in spoken Norwegian, they are not used in formal writing, and are thus unlikely to be found in any great abundance.
 
 The following is a list of some possible negation cues in Norwegian. The list is by no means exhaustive. See the respective descriptions below for details and examples for each cue.
 
 ## Verbs
 * unngå + inf
-* la være + inf
-* mangle
+* la være/late vere + inf
+* mangle/vante
 
 ## Prepositions
-* uten + å/at
-* uten + N
+* uten/utan + å/at
+* uten/utan + N
 
 ## Adverbs
-* ikke
+* ikke/ikkje
 * aldri
 * borte
 * ei
 
 ## Conjunctions
-* (h)verken 
+* (h)verken/korkje 
 
 ## Determinatives
-* ingen,intet
+* ingen,intet,inga
 
 ## Pronouns
 * ingenting
@@ -105,23 +104,23 @@ The following is a list of some possible negation cues in Norwegian. The list is
 ## Affixes
 * u-
 * ikke-- 
-* -løs,-løse,-løst
+* -løs,-løse,-løst/-laus,-lause,-laust
 * -fri,-frie,-fritt
 
 
 # Annotation procedure
-The following chapters will describe the annotation procedure. Details concerning the software follow a more general discussion of how the sentences should be annotated. All sentences containing semantic negation are annotated, meaning that if there is any negation of the propositions in the sentence, it should be marked regardless of how it is expressed. All sentences containing semantic negation are annotated regardless of their earlier sentiment annotations, meaning that there will be some, but not complete overlap between the sentences marked for negation and those marked for sentiment in the corpus presented in Øvrelid et al. A sentence can further contain multiple negation cues and associated scopes. Inter-sentential negation (negation spanning several sentences) is not annotated, but in these cases the scope of the negation is implicit, and the cue is marked as having no scope.
+The following chapters will describe the annotation procedure. Details concerning the software follow a more general discussion of how the sentences should be annotated. All sentences containing semantic negation are annotated, meaning that if there is any negation of the propositions in the sentence, it should be marked regardless of how it is expressed. All sentences containing semantic negation are annotated regardless of their earlier sentiment annotations, meaning that there will be some, but not complete overlap between the sentences marked for negation and those marked for sentiment in the corpus presented in Øvrelid et al. (2019) A sentence can further contain multiple negation cues and associated scopes. Inter-sentential negation (negation spanning several sentences) is not annotated, but in these cases the scope of the negation is seen as implicit, and the cue is marked as having no scope. As in answering "no" to a question the author has posed earlier.
 
 ## Annotating cues
 
 ### Identifying cues
-Look for the word that makes you understand that there is some negation. Cues are usually members of a relatively fixed group of words, see the list above for more details. It is important to be aware of that although cues are usually from this list, the words above can also be found in cases that do not indicate negation, such as in certain fixed expressions. The annotator must therefore perform a test to check whether there is actually negation. A rephrasing such as "det er ikke slik at..." can be useful in this case. If the rephrasing is only possible with "Det er lite sannsynlig at..." or something similar, then it is a case of speculation, and it is not marked in this annotation round. Note that negation should be a direct consequence of the negation cue, not just implied due to other factors. 
+We should look for the word that makes us understand that there is some negation. Cues are usually members of a relatively fixed group of words, see the list above for more details. It is important to be aware of that although cues are usually from this list, the words above can also be found in cases that do not indicate negation, such as in certain fixed expressions. The annotator must therefore perform a test to check whether there is actually negation. A rephrasing such as *det er ikke slik at...* 'it is not the case that...' can be useful in this case. If the rephrasing is only possible with "Det er lite sannsynlig at..." or something similar, then it is a case of speculation, and it is not marked in this annotation round. Note that negation should be a direct consequence of the negation cue, not just implied due to other factors. 
 
 ### Affixal cues
 We allow the marking of affixal cues. Some possible affixes are mentioned in the list above. One thing to note when looking for affixal cues, is whether it actually indicates negation or not, which is also the case for other negation cues. Words with affixal negation cues tend to be semantically different from adverbial negation with *ikke*, but the annotators need not worry about this. Some problems are specific to certain cues. We do not mark cases that are clearly not negated in any way.
 
 #### u- and mis-
-The prefix *u-* in Norwegian largely corresponds to the English prefix 'un-', but it is also used in a series of words where it usually has the meaning "bad", such as *udyr* 'beast; pest, *uvær* 'bad weather', *uvenn* 'enemy;bad friend', *utøy* 'vermin', *ulempe* 'disadvantage',*uår* 'bad (crop) year', and many more. Most of these are nouns. The prefix mis-, which largely corresponds to English "mis-", tends to indicate "not correct" or "bad", and is not annotated in these cases. One can try to dismantle the word and see if the word without the affix is in fact what is negated. This is perhaps especially relevant for words that in most cases are borrowed as-is, but where the frequency of these borrowings make the speakers aware of the morphology, such as in words containing the affixes "im-", "-in", etc. and other graeco-latin vocabulary items. For example, in Norwegian, "impotent" is quite different from "ikke potent". "impotent" is therefore not annotated, but in cases with clear negation, they should be annotated.
+The prefix *u-* in Norwegian largely corresponds to the English prefix 'un-', but when used with nominal roots it is also used in a series of words where it usually has the meaning "bad", such as *udyr* 'beast; pest, *uvær* 'bad weather', *uvenn* 'enemy; bad friend', *utøy* 'vermin', *ulempe* 'disadvantage',*uår* 'bad (crop) year', and many more. Most of these are nouns. The prefix mis-, which largely corresponds to English "mis-", tends to indicate "not correct" or "bad", and is not annotated in these cases. One can try to dismantle the word and see if the word without the affix is in fact what is negated. This is perhaps especially relevant for words that in most cases are borrowed as-is, but where the frequency of these borrowings make the speakers aware of the morphology, such as in words containing the affixes "im-", "-in", etc. and other graeco-latin vocabulary items. For example, in Norwegian, "impotent" is quite different from "ikke potent". "impotent" is therefore not annotated, but in cases with clear negation, they should be annotated. The annotators also need to be aware of words where the prefix has been lexicalised, and the original non-negated word is no longer part of the active lexicon.
 
 #### -løs
 The affix -løs '-less' is another common affix that often indicates negation in the sense of "not containing". Note that this ending will look different depending on the concordance with the noun it is modifying: -løs (f,m), -løst(n), -løse(pl,def).
