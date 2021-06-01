@@ -415,16 +415,18 @@ Negation that is found in titles and quotes should be annotated as normal as lon
 ## Cue (in Brat)
 The cue is an "Event" type. This is the first part that should be identified in a sentence. The cue can be both complex (multiword) and discontinous. Discontinous cues are created by first marking the first word of the cue, and then pressing the "add frag" button. Discontinuous cues are mainly annotated in the case of *(h)verken...eller..." 'neither...nor...'.* The cue option can be selected by pressing the shortcut key "c".
 
-[image1]: https://github.uio.no/SANT/negation/blob/master/images/ufrivillig.png "Labels"
+[image1]: images/ufrivillig.png "Labels"
 
 ![alt text][image1]
 <br/>Example 1: affixal negation *
 
 
-[image2]: https://github.uio.no/SANT/negation/blob/master/images/mordgaaten.png "Labels"
+[image2]: images/mordgaaten.png "Labels"
 
 ![alt text][image2]
 <br/>Example 2: Discontinuous spans *
+
+  
 
 ## Scope (in Brat)
 Once the cue has been identified, the scope can be marked, and a relation can be drawn from the cue to the scope. The scope of a cue can, as the cue, be both complex and discontinous. Both multiword scopes and discontinuous scopes are very frequent. The scope option can be selected by pressing the shortcut key "s".
